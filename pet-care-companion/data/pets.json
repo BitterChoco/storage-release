@@ -1,77 +1,69 @@
 {
-  "_note": "Edit this file to add pet categories or update their names, types, logos, and accent colors. Set logo to an emoji or a full image URL. Category IDs must match categories.json.",
-  "categories": [
-    {
-      "id": "dog",
-      "name": "Dog",
-      "type": "Mammal",
-      "logo": "🐕",
-      "favorite": false,
-      "accent": "#E78455"
-    },
-    {
-      "id": "cat",
-      "name": "Cat",
-      "type": "Mammal",
-      "logo": "🐈",
-      "favorite": false,
-      "accent": "#A77AD6"
-    },
-    {
-      "id": "fish",
-      "name": "Fish",
-      "type": "Aquatic pet",
-      "logo": "🐠",
-      "favorite": false,
-      "accent": "#43A9B7"
-    },
-    {
-      "id": "parrot-fish",
-      "name": "Parrot Fish",
-      "type": "Marine reef fish",
-      "logo": "🐟",
-      "favorite": false,
-      "accent": "#4D9F9A"
-    },
-    {
-      "id": "hedgehog",
-      "name": "Hedgehog",
-      "type": "Small exotic mammal",
-      "logo": "🦔",
-      "favorite": false,
-      "accent": "#A6815D"
-    },
-    {
-      "id": "snake",
-      "name": "Snake",
-      "type": "Reptile",
-      "logo": "🐍",
-      "favorite": false,
-      "accent": "#78A86B"
-    },
-    {
-      "id": "hamster",
-      "name": "Hamster",
-      "type": "Small mammal",
-      "logo": "🐹",
-      "favorite": false,
-      "accent": "#DCA64B"
-    },
-    {
-      "id": "turtle",
-      "name": "Turtle",
-      "type": "Reptile",
-      "logo": "🐢",
-      "favorite": false,
-      "accent": "#5F9B74"
-    },
-    {
-      "id": "hermit-crab",
-      "name": "Hermit Crab",
-      "type": "Crustacean",
-      "logo": "🦀",
-      "favorite": false,
-      "accent": "#D17D61"
-    }
-  ]
+    "_note":  "Edit this file to add pet categories or update their names, types, logos, and accent colors. Set logo to an emoji or a full image URL. Category IDs must match categories.json.",
+    "categories":  [
+                       {
+                           "id":  "dog",
+                           "name":  "Dog",
+                           "type":  "Mammal",
+                           "logo":  "🐕",
+                           "favorite":  false,
+                           "accent":  "#E78455"
+                       },
+                       {
+                           "id":  "cat",
+                           "name":  "Cat",
+                           "type":  "Mammal",
+                           "logo":  "🐈",
+                           "favorite":  false,
+                           "accent":  "#A77AD6"
+                       },
+                       {
+                           "id":  "fish",
+                           "name":  "Fish",
+                           "type":  "Aquatic pet",
+                           "logo":  "🐠",
+                           "favorite":  false,
+                           "accent":  "#43A9B7"
+                       },
+                       {
+                           "id":  "hedgehog",
+                           "name":  "Hedgehog",
+                           "type":  "Small exotic mammal",
+                           "logo":  "🦔",
+                           "favorite":  false,
+                           "accent":  "#A6815D"
+                       },
+                       {
+                           "id":  "snake",
+                           "name":  "Snake",
+                           "type":  "Reptile",
+                           "logo":  "🐍",
+                           "favorite":  false,
+                           "accent":  "#78A86B"
+                       },
+                       {
+                           "id":  "hamster",
+                           "name":  "Hamster",
+                           "type":  "Small mammal",
+                           "logo":  "🐹",
+                           "favorite":  false,
+                           "accent":  "#DCA64B"
+                       },
+                       {
+                           "id":  "turtle",
+                           "name":  "Turtle",
+                           "type":  "Reptile",
+                           "logo":  "🐢",
+                           "favorite":  false,
+                           "accent":  "#5F9B74"
+                       },
+                       {
+                           "id":  "hermit-crab",
+                           "name":  "Hermit Crab",
+                           "type":  "Crustacean",
+                           "logo":  "🦀",
+                           "favorite":  false,
+                           "accent":  "#D17D61"
+                       }
+                   ]
 }

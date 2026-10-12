@@ -1,22 +1,22 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-12T00:00:00Z",
-  "files": {
-    "categories.json": {
-      "url": "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/categories.json",
-      "sha256": "e89887e35a8d0e8f213c7371c25c76258998d2657e4058f8cfc5276bc935202a"
-    },
-    "pets.json": {
-      "url": "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/pets.json",
-      "sha256": "637f674097b2ab7f3cf1075ee0f26f59be85f3bae84b8260733c6da94e023b44"
-    },
-    "pet_details.json": {
-      "url": "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/pet_details.json",
-      "sha256": "e3c1bda1518a1a42d8853a8e93d8374bcb5609633856c67ddc294a0cb115c55b"
-    },
-    "settings.json": {
-      "url": "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/settings.json",
-      "sha256": "9c28087e3d839fb1c1ea49f0ea82a891976ff4c56a63229cc419abc554adf9c5"
-    }
-  }
+    "version":  2,
+    "updatedAt":  "2026-10-12T16:37:10Z",
+    "files":  {
+                  "categories.json":  {
+                                          "url":  "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/categories.json",
+                                          "sha256":  "03fea3ecd4df5d2dda56b39ba0072c5c8a0152ceec958c9855b0f02ad939d070"
+                                      },
+                  "pets.json":  {
+                                    "url":  "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/pets.json",
+                                    "sha256":  "662a98297ace0ef656612b8c4847dfc796213e6a0117e22132baad36f5bcaa1f"
+                                },
+                  "pet_details.json":  {
+                                           "url":  "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/pet_details.json",
+                                           "sha256":  "e3c1bda1518a1a42d8853a8e93d8374bcb5609633856c67ddc294a0cb115c55b"
+                                       },
+                  "settings.json":  {
+                                        "url":  "https://github.com/BitterChoco/storage-release/raw/refs/heads/main/pet-care-companion/data/settings.json",
+                                        "sha256":  "9c28087e3d839fb1c1ea49f0ea82a891976ff4c56a63229cc419abc554adf9c5"
+                                    }
+              }
 }
