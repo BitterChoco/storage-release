@@ -1,0 +1,8 @@
+{
+  "_note": "Default user preferences. Theme and filter choices are also saved on-device in AsyncStorage so changes persist after installing the app.",
+  "theme": "light",
+  "filters": {
+    "favoritesOnly": false
+  },
+  "availableThemes": ["light", "dark", "blue", "orange", "green", "yellow"]
+}

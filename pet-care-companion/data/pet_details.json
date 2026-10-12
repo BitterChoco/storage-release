@@ -1,0 +1,594 @@
+{
+  "_note": "Editable example details keyed by petId from categories.json. Replace samplePicture with an emoji or image URL. Diet, breeding, and age information is general and illustrative; confirm all details for an individual pet with an appropriate veterinarian or species-care expert. Do not use this as breeding advice.",
+  "_sources": [
+    { "topic": "Cat heat-cycle frequency, gestation, and postpartum care", "name": "VCA Animal Hospitals — Breeding and Queening Cats", "url": "https://vcahospitals.com/know-your-pet/breeding-and-queening-cats" },
+    { "topic": "Lactational estrus evidence", "name": "Furthner et al. (2023), Prevalence of lactational oestrus in cats and consequences for kittens", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10812045/" },
+    { "topic": "Cat life-stage ranges", "name": "AAFP/AAHA Feline Life Stage Guidelines", "url": "https://catvets.com/guidelines/practice-guidelines/life-stage-guidelines/" }
+  ],
+  "pets": [
+    {
+      "petId": "dog-labrador",
+      "samplePicture": "🐕",
+      "generalInformation": "A sociable, people-oriented retriever. Individual size, coat, activity, and health needs vary. Traits are typical examples, not a guarantee for every dog.",
+      "traits": ["Friendly and often eager to learn", "Usually enjoys regular activity and interaction", "Short double coat; routine brushing helps manage shedding"],
+      "diet": {
+        "foodsEats": "An omnivorous domestic dog; needs a complete, balanced dog food appropriate for its life stage and health.",
+        "allowed": ["Complete commercial dog food", "Fresh clean water", "Small portions of veterinarian-approved dog treats"],
+        "dangerous": ["Chocolate, grapes, and raisins", "Onion, garlic, and xylitol-sweetened products", "Cooked bones and heavily seasoned or fatty foods"]
+      },
+      "mating": {
+        "season": "Domestic dogs do not have one shared mating season; timing depends on an individual female's heat cycle.",
+        "frequency": "Varies by individual and health. There is no health requirement for a dog to have a litter.",
+        "note": "Breeding requires veterinary screening and responsible planning. Ask a veterinarian about spaying or neutering."
+      },
+      "ageBehavior": [
+        { "age": "Puppy", "ageRange": "Birth to about 12 months; large breeds may mature closer to 18–24 months", "behavior": "Rapid learning, play, chewing, and frequent rest; needs gentle socialization and age-appropriate care." },
+        { "age": "Adult", "ageRange": "After maturity; often about 1–7 years, varying by size", "behavior": "Activity and temperament vary; consistent enrichment, exercise, and routine are important." },
+        { "age": "Senior", "ageRange": "Often around 7+ years; large dogs may be senior earlier", "behavior": "May slow down or develop changing mobility and health needs; arrange regular veterinary checks." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 year", "humanAge": "About 15 years" },
+        { "petAge": "2 years", "humanAge": "About 24 years" },
+        { "petAge": "5 years", "humanAge": "About 36–45 years; size affects aging" },
+        { "petAge": "10 years", "humanAge": "About 56–80 years; size affects aging" }
+      ]
+    },
+    {
+      "petId": "dog-poodle",
+      "samplePicture": "🐩",
+      "generalInformation": "An intelligent, active dog breed seen in several sizes. Coat care and exercise needs differ among individuals and sizes.",
+      "traits": ["Often quick to learn and responsive to training", "Curly coat needs regular brushing and professional grooming", "Benefits from play, company, and mental enrichment"],
+      "diet": {
+        "foodsEats": "Needs a complete, balanced dog food selected for its size, life stage, and health.",
+        "allowed": ["Complete commercial dog food", "Fresh clean water", "Small portions of veterinarian-approved dog treats"],
+        "dangerous": ["Chocolate, grapes, and raisins", "Onion, garlic, and xylitol-sweetened products", "Cooked bones and heavily seasoned or fatty foods"]
+      },
+      "mating": {
+        "season": "No fixed breed-wide season for domestic dogs; an individual female's heat cycle determines timing.",
+        "frequency": "Varies by individual. Breeding is not necessary for health or wellbeing.",
+        "note": "Seek veterinary advice about hereditary screening and reproductive health; do not breed without expert guidance."
+      },
+      "ageBehavior": [
+        { "age": "Puppy", "ageRange": "Birth to about 12 months; maturity varies by size", "behavior": "Curious and playful; needs calm socialization, reward-based training, and plenty of sleep." },
+        { "age": "Adult", "ageRange": "After maturity; often about 1–7 years", "behavior": "Often enjoys learning and activities; grooming and enrichment remain part of routine care." },
+        { "age": "Senior", "ageRange": "Often around 7+ years; ask a veterinarian based on size and health", "behavior": "May need gentler activity, more frequent grooming support, and veterinary monitoring." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 year", "humanAge": "About 15 years" },
+        { "petAge": "2 years", "humanAge": "About 24 years" },
+        { "petAge": "5 years", "humanAge": "About 36–45 years; size affects aging" },
+        { "petAge": "10 years", "humanAge": "About 56–80 years; size affects aging" }
+      ]
+    },
+    {
+      "petId": "dog-shiba",
+      "samplePicture": "🐕",
+      "generalInformation": "A compact, alert spitz-type dog. Temperament is individual; early positive training and secure handling are useful.",
+      "traits": ["Often alert and independent-minded", "Double coat sheds seasonally and benefits from brushing", "Needs secure walks, enrichment, and patient training"],
+      "diet": {
+        "foodsEats": "Needs a complete, balanced dog food appropriate for age, body condition, and health.",
+        "allowed": ["Complete commercial dog food", "Fresh clean water", "Small portions of veterinarian-approved dog treats"],
+        "dangerous": ["Chocolate, grapes, and raisins", "Onion, garlic, and xylitol-sweetened products", "Cooked bones and heavily seasoned or fatty foods"]
+      },
+      "mating": {
+        "season": "Domestic dogs have no common calendar mating season; timing follows an individual female's heat cycle.",
+        "frequency": "Varies by individual. There is no benefit to allowing an unplanned litter.",
+        "note": "Discuss reproductive decisions and breed-specific health screening with a veterinarian."
+      },
+      "ageBehavior": [
+        { "age": "Puppy", "ageRange": "Birth to about 12 months", "behavior": "Explores and learns quickly; benefit from gentle social exposure and consistent boundaries." },
+        { "age": "Adult", "ageRange": "About 1–7 years; physical maturity varies", "behavior": "May be energetic and self-directed; secure exercise and enrichment are helpful." },
+        { "age": "Senior", "ageRange": "Often around 7+ years; individual health varies", "behavior": "Activity may decrease and comfort needs can change; ask a veterinarian about mobility changes." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 year", "humanAge": "About 15 years" },
+        { "petAge": "2 years", "humanAge": "About 24 years" },
+        { "petAge": "5 years", "humanAge": "About 36–45 years; size affects aging" },
+        { "petAge": "10 years", "humanAge": "About 56–80 years; size affects aging" }
+      ]
+    },
+    {
+      "petId": "cat-domestic-shorthair",
+      "samplePicture": "🐈",
+      "generalInformation": "Domestic Shorthair describes a short-coated mixed-breed cat rather than one specific pedigree. Personality, size, and health vary widely.",
+      "traits": ["Short coat is usually straightforward to maintain", "Enjoys choices for hiding, climbing, scratching, and play", "Individual social preferences range from outgoing to reserved"],
+      "diet": {
+        "foodsEats": "An obligate carnivore; needs complete and balanced cat food formulated for its age and health.",
+        "allowed": ["Complete commercial cat food", "Fresh clean water", "Small portions of plain cooked meat as an occasional treat"],
+        "dangerous": ["Onion, garlic, chives, and chocolate", "Alcohol, caffeine, and xylitol-sweetened products", "Unbalanced raw diets and cooked bones"]
+      },
+      "mating": {
+        "season": "Cats are seasonally polyestrous; daylight and climate affect timing. Indoor cats or cats in warm, bright climates may cycle for much of the year.",
+        "frequency": "An individual heat often lasts several days. If she does not become pregnant, a queen commonly returns to heat in about 1–3 weeks during the breeding season. It is not a 3- or 6-month schedule.",
+        "note": "Postpartum return varies. A 2023 study found lactational heat in 49% of the births it evaluated, with average onset around 40 days; some queens return as early as 2–4 weeks postpartum. Nursing is not contraception. Keep her away from intact males and ask a veterinarian about spaying and safe timing. Cat pregnancy typically lasts about 63–65 days (roughly 9 weeks)."
+      },
+      "ageBehavior": [
+        { "age": "Early kitten", "ageRange": "Birth to 6 months", "behavior": "Rapid growth, play, and social learning; provide safe exploration, frequent rest, and kitten veterinary care." },
+        { "age": "Late kitten / junior", "ageRange": "6 to 12 months", "behavior": "Continues growing and becoming more coordinated; use supervised play, positive handling, and age-appropriate nutrition." },
+        { "age": "Young adult", "ageRange": "1–6 years", "behavior": "Settles into an individual routine; interactive play, a healthy weight, and preventive care help." },
+        { "age": "Mature adult", "ageRange": "7–10 years", "behavior": "May show subtle changes in activity or weight; continue routine wellness and dental checks." },
+        { "age": "Senior", "ageRange": "11–14 years", "behavior": "May sleep more or have changing mobility, appetite, or grooming; arrange regular health checks." },
+        { "age": "Geriatric", "ageRange": "15 years and older", "behavior": "Individual needs can change more noticeably; work with a veterinarian on comfort and health monitoring." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 year", "humanAge": "About 15 years" },
+        { "petAge": "2 years", "humanAge": "About 24 years" },
+        { "petAge": "5 years", "humanAge": "About 36 years" },
+        { "petAge": "10 years", "humanAge": "About 56 years" },
+        { "petAge": "15 years", "humanAge": "About 76 years" }
+      ]
+    },
+    {
+      "petId": "cat-persian",
+      "samplePicture": "🐈",
+      "generalInformation": "A long-haired cat breed known for a plush coat and distinctive face. Individual health and temperament vary.",
+      "traits": ["Long coat needs frequent gentle brushing to prevent tangles", "Often prefers calm handling and a predictable home", "Facial shape can be associated with health concerns; seek breed-aware veterinary care"],
+      "diet": {
+        "foodsEats": "An obligate carnivore; choose complete and balanced cat food suitable for age and health.",
+        "allowed": ["Complete commercial cat food", "Fresh clean water", "Small portions of plain cooked meat as an occasional treat"],
+        "dangerous": ["Onion, garlic, chives, and chocolate", "Alcohol, caffeine, and xylitol-sweetened products", "Unbalanced raw diets and cooked bones"]
+      },
+      "mating": {
+        "season": "Cats are seasonally polyestrous; daylight and climate affect cycling, and some indoor cats cycle for much of the year.",
+        "frequency": "A heat often lasts several days. If not pregnant, heat may recur about every 1–3 weeks during the breeding season. There is no 3- or 6-month interval that applies to every cat.",
+        "note": "Postpartum timing varies. A 2023 study found lactational heat in 49% of evaluated births, averaging about 40 days; some queens return as early as 2–4 weeks after birth. A nursing cat can become pregnant. Keep her away from intact males and discuss spaying or any planned breeding with a veterinarian. Pregnancy is about 63–65 days (around 9 weeks)."
+      },
+      "ageBehavior": [
+        { "age": "Early kitten", "ageRange": "Birth to 6 months", "behavior": "Develops coordination and social skills through play, gentle handling, and safe exploration." },
+        { "age": "Late kitten / junior", "ageRange": "6 to 12 months", "behavior": "Continues maturing; provide safe play, predictable routines, and age-appropriate nutrition." },
+        { "age": "Young adult", "ageRange": "1–6 years", "behavior": "May enjoy a calm routine; grooming, play, healthy weight, and wellness checks support comfort." },
+        { "age": "Mature adult", "ageRange": "7–10 years", "behavior": "Maintain coat care and watch for subtle changes in breathing, eyes, teeth, weight, and mobility." },
+        { "age": "Senior", "ageRange": "11–14 years", "behavior": "May need help maintaining coat condition and monitoring breathing, eyes, teeth, and mobility." },
+        { "age": "Geriatric", "ageRange": "15 years and older", "behavior": "Needs are individual; arrange regular veterinary care and support comfort, grooming, and access to essentials." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 year", "humanAge": "About 15 years" },
+        { "petAge": "2 years", "humanAge": "About 24 years" },
+        { "petAge": "5 years", "humanAge": "About 36 years" },
+        { "petAge": "10 years", "humanAge": "About 56 years" },
+        { "petAge": "15 years", "humanAge": "About 76 years" }
+      ]
+    },
+    {
+      "petId": "cat-siamese",
+      "samplePicture": "🐈",
+      "generalInformation": "A short-coated, color-pointed cat breed. Many are social and vocal, though each cat has its own temperament.",
+      "traits": ["Often enjoys interaction and play", "Short coat benefits from occasional brushing", "May be vocal; provide attention and enrichment suited to the individual"],
+      "diet": {
+        "foodsEats": "An obligate carnivore; needs complete cat food appropriate to its life stage and medical needs.",
+        "allowed": ["Complete commercial cat food", "Fresh clean water", "Small portions of plain cooked meat as an occasional treat"],
+        "dangerous": ["Onion, garlic, chives, and chocolate", "Alcohol, caffeine, and xylitol-sweetened products", "Unbalanced raw diets and cooked bones"]
+      },
+      "mating": {
+        "season": "Cats are seasonally polyestrous; daylight and climate affect cycling, while some indoor cats cycle for much of the year.",
+        "frequency": "A heat often lasts several days. If she does not become pregnant, heat can return about every 1–3 weeks during the breeding season; the interval varies by cat.",
+        "note": "Postpartum timing varies. One 2023 study observed lactational heat in 49% of evaluated births, averaging about 40 days, with some queens returning as early as 2–4 weeks postpartum. Nursing is not contraception. Prevent contact with intact males and ask a veterinarian about spaying or reproductive care. Pregnancy typically lasts about 63–65 days (around 9 weeks)."
+      },
+      "ageBehavior": [
+        { "age": "Early kitten", "ageRange": "Birth to 6 months", "behavior": "Active exploration and play support learning; provide safe toys and quiet sleep areas." },
+        { "age": "Late kitten / junior", "ageRange": "6 to 12 months", "behavior": "Growing coordination and independence benefit from play, positive social contact, and a steady routine." },
+        { "age": "Young adult", "ageRange": "1–6 years", "behavior": "May seek frequent social interaction; keep play, healthy weight, and daily routines consistent." },
+        { "age": "Mature adult", "ageRange": "7–10 years", "behavior": "Continue enrichment and watch for subtle changes in activity, weight, or behavior." },
+        { "age": "Senior", "ageRange": "11–14 years", "behavior": "May become less active or change vocalization; seek advice about new behavior or health changes." },
+        { "age": "Geriatric", "ageRange": "15 years and older", "behavior": "Needs are individual; discuss health changes, comfort, and more frequent monitoring with a veterinarian." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 year", "humanAge": "About 15 years" },
+        { "petAge": "2 years", "humanAge": "About 24 years" },
+        { "petAge": "5 years", "humanAge": "About 36 years" },
+        { "petAge": "10 years", "humanAge": "About 56 years" },
+        { "petAge": "15 years", "humanAge": "About 76 years" }
+      ]
+    },
+    {
+      "petId": "fish-betta",
+      "samplePicture": "🐠",
+      "generalInformation": "Bettas are freshwater fish that need stable, warm, clean water and an appropriately sized, filtered aquarium. Individual needs vary by variety and health.",
+      "traits": ["Air-breathing labyrinth fish; still require clean, heated water", "Males may be territorial toward other bettas", "Provide cover and low-stress surroundings"],
+      "diet": {
+        "foodsEats": "A carnivorous fish that eats suitable aquatic invertebrates and formulated betta food.",
+        "allowed": ["Quality betta pellets in measured amounts", "Appropriately sized frozen or prepared aquatic foods", "Varied foods recommended by an aquatic veterinarian or expert"],
+        "dangerous": ["Bread, cereal, or human snack foods", "Overfeeding, which can foul aquarium water", "Unverified live foods that may introduce parasites or contaminants"]
+      },
+      "mating": {
+        "season": "Captive breeding depends on controlled conditions; wild reproductive timing varies with habitat and season.",
+        "frequency": "No routine breeding frequency is appropriate for a pet. Bettas can injure one another during breeding attempts.",
+        "note": "Breeding needs specialist knowledge and a plan for offspring. Do not house fish together for breeding without expert guidance."
+      },
+      "ageBehavior": [
+        { "age": "Juvenile", "behavior": "Small and developing; needs stable, clean water and appropriately sized food." },
+        { "age": "Adult", "behavior": "May patrol, build bubble nests, and display territorial behaviors; provide suitable enrichment and space." },
+        { "age": "Older fish", "behavior": "May swim or feed less actively; check water parameters and seek aquatic veterinary advice for changes." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 fish year", "humanAge": "No reliable direct conversion" },
+        { "petAge": "Typical lifespan", "humanAge": "Species and care vary; human-age comparisons are not meaningful" }
+      ]
+    },
+    {
+      "petId": "fish-goldfish",
+      "samplePicture": "🐠",
+      "generalInformation": "Goldfish are long-lived, active freshwater fish that produce substantial waste and need generous, well-filtered space. Bowl keeping is unsuitable.",
+      "traits": ["Need excellent filtration and regular water-quality monitoring", "Can grow larger and live longer than many new keepers expect", "Social behavior varies; compatible tankmates and adequate space matter"],
+      "diet": {
+        "foodsEats": "An omnivorous fish; use a quality goldfish-formulated diet and suitable plant matter.",
+        "allowed": ["Quality goldfish pellets or flakes in measured portions", "Aquarium-safe vegetables prepared as recommended by fish-care experts", "Appropriate formulated aquatic foods"],
+        "dangerous": ["Bread and processed human foods", "Overfeeding and uneaten food left to decay", "Unsafe plants or foods treated with pesticides"]
+      },
+      "mating": {
+        "season": "Spawning cues in outdoor or controlled settings often relate to environmental conditions; timing varies by variety and location.",
+        "frequency": "No single frequency applies. Repeated spawning can stress fish and requires careful welfare management.",
+        "note": "Seek experienced aquatic-care advice before breeding. Ensure space and a responsible plan for offspring."
+      },
+      "ageBehavior": [
+        { "age": "Young fish", "behavior": "Growing fish need stable water, suitable food, and enough room to develop." },
+        { "age": "Adult", "behavior": "Often forages and explores; monitor group compatibility, water quality, and body condition." },
+        { "age": "Older fish", "behavior": "Changes in buoyancy, appetite, or swimming deserve prompt water checks and aquatic veterinary advice." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 fish year", "humanAge": "No reliable direct conversion" },
+        { "petAge": "5 fish years", "humanAge": "No standardized human-age equivalent" },
+        { "petAge": "10+ fish years", "humanAge": "Lifespan depends on variety, health, and husbandry" }
+      ]
+    },
+    {
+      "petId": "fish-guppy",
+      "samplePicture": "🐠",
+      "generalInformation": "Guppies are small, active freshwater fish. They need stable, clean water, a suitable group setup, and careful planning because they reproduce readily.",
+      "traits": ["Active swimmers; provide appropriate aquarium space", "Males and females can be distinguished by experienced keepers", "Livebearing populations may grow quickly if sexes are mixed"],
+      "diet": {
+        "foodsEats": "An omnivorous fish; use a varied, balanced diet formulated for small tropical fish.",
+        "allowed": ["Quality tropical fish flakes or micro-pellets", "Suitable prepared or frozen aquatic foods", "Aquarium-safe vegetable matter in appropriate portions"],
+        "dangerous": ["Bread, cereal, or salty human snacks", "Overfeeding and decaying food", "Unquarantined live foods that may introduce disease"]
+      },
+      "mating": {
+        "season": "Guppies can reproduce throughout the year in suitable conditions; this is not a safe population-control plan for pets.",
+        "frequency": "Pregnancy timing varies; populations can increase quickly when males and females are housed together.",
+        "note": "Plan sex separation and responsible placement before keeping mixed groups. Never release aquarium fish outdoors."
+      },
+      "ageBehavior": [
+        { "age": "Fry", "behavior": "Very small and vulnerable; require suitable food, cover, and stable water conditions." },
+        { "age": "Adult", "behavior": "Active schooling and foraging are common; provide a compatible group and monitor population." },
+        { "age": "Older fish", "behavior": "May become less active or show color and body changes; review water quality and seek fish-care advice." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 fish year", "humanAge": "No reliable direct conversion" },
+        { "petAge": "Typical lifespan", "humanAge": "Varies with genetics and care; human-age comparison is not standardized" }
+      ]
+    },
+    {
+      "petId": "snake-corn",
+      "samplePicture": "🐍",
+      "generalInformation": "A North American colubrid snake commonly kept in captivity. Provide a secure enclosure with a measured thermal gradient, hides, and species-appropriate humidity.",
+      "traits": ["Usually terrestrial and exploratory", "Can become accustomed to gentle, appropriate handling", "May hide or be less active around shedding and feeding"],
+      "diet": {
+        "foodsEats": "A carnivorous snake; captive diets generally use appropriately sized, safely sourced prey under expert guidance.",
+        "allowed": ["Species-appropriate prey recommended by an exotic-animal veterinarian", "Fresh water in a stable, clean bowl", "A consistent feeding schedule suitable for age and body condition"],
+        "dangerous": ["Human foods, fruit, or vegetables", "Live prey that can injure the snake when left unattended", "Wild-caught prey or prey too large for the snake"]
+      },
+      "mating": {
+        "season": "Wild breeding activity is often seasonal and influenced by temperature and local climate; captive timing varies.",
+        "frequency": "No routine breeding interval is recommended for pet snakes; reproduction places physical demands on animals.",
+        "note": "Breeding requires expertise, health screening, and a plan for every offspring. Consult an exotic-animal veterinarian."
+      },
+      "ageBehavior": [
+        { "age": "Hatchling", "behavior": "Small and easily stressed; prioritize secure housing, suitable hides, and expert feeding guidance." },
+        { "age": "Adult", "behavior": "May explore most when secure and comfortable; allow time to settle after feeding." },
+        { "age": "Older snake", "behavior": "Activity and feeding can change with health; monitor weight and seek exotic veterinary advice." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 snake year", "humanAge": "No accepted human-age conversion" },
+        { "petAge": "5 snake years", "humanAge": "No standardized equivalent" },
+        { "petAge": "10+ snake years", "humanAge": "Aging varies by species and individual health" }
+      ]
+    },
+    {
+      "petId": "snake-ball-python",
+      "samplePicture": "🐍",
+      "generalInformation": "A stout-bodied African python. Secure housing, correct temperature and humidity, hides, and careful health monitoring are essential.",
+      "traits": ["Often spends substantial time hiding", "May curl into a ball when stressed", "Feeding responses can vary; persistent refusal needs expert assessment"],
+      "diet": {
+        "foodsEats": "A carnivorous snake; prey size and schedule should be set for the individual by an experienced keeper or exotic veterinarian.",
+        "allowed": ["Appropriately sized, safely sourced prey recommended by an expert", "Fresh clean water", "Quiet, undisturbed recovery time after feeding"],
+        "dangerous": ["Human foods or plant foods", "Unattended live prey that may bite or injure the snake", "Wild-caught prey and prey that is too large"]
+      },
+      "mating": {
+        "season": "Reproductive timing can be seasonal in nature and is influenced by environmental conditions; captive cycles differ.",
+        "frequency": "No pet breeding frequency can be recommended; breeding can carry health risks, especially for females.",
+        "note": "Do not manipulate temperature or feeding to induce breeding without qualified specialist supervision."
+      },
+      "ageBehavior": [
+        { "age": "Hatchling", "behavior": "Needs stable conditions and secure hides; minimize handling while it settles and feeds reliably." },
+        { "age": "Adult", "behavior": "Often rests in hides and explores at quieter times; monitor feeding, body condition, and enclosure climate." },
+        { "age": "Older snake", "behavior": "May show changes in appetite or movement; consult an exotic veterinarian rather than assuming age is the cause." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 snake year", "humanAge": "No accepted human-age conversion" },
+        { "petAge": "5 snake years", "humanAge": "No standardized equivalent" },
+        { "petAge": "10+ snake years", "humanAge": "Aging varies by species and individual health" }
+      ]
+    },
+    {
+      "petId": "snake-rosy-boa",
+      "samplePicture": "🐍",
+      "generalInformation": "A small boa native to arid parts of the southwestern United States and Mexico. Captive care should provide a secure enclosure and a suitable warm-to-cool gradient.",
+      "traits": ["Primarily terrestrial and often secretive", "Needs secure, appropriately sized hides", "Temperature and seasonal needs should be guided by a reptile-care expert"],
+      "diet": {
+        "foodsEats": "A carnivorous snake; offer species-appropriate prey based on the individual snake's size and condition.",
+        "allowed": ["Safely sourced, correctly sized prey under expert guidance", "Fresh clean water", "A quiet, clean enclosure for digestion"],
+        "dangerous": ["Human foods, fruit, or vegetables", "Unattended live prey", "Wild-caught prey or prey that is too large"]
+      },
+      "mating": {
+        "season": "Reproductive patterns in the wild are seasonal and geographically influenced; captive timing varies.",
+        "frequency": "Breeding intervals vary and should not be treated as routine pet care.",
+        "note": "Consult a reptile veterinarian and experienced species specialist before any breeding decisions."
+      },
+      "ageBehavior": [
+        { "age": "Young snake", "behavior": "Often secretive; provide stable temperatures, hides, and a secure enclosure." },
+        { "age": "Adult", "behavior": "May explore during quieter hours; allow undisturbed digestion after meals." },
+        { "age": "Older snake", "behavior": "Watch for changes in body condition or movement and seek reptile veterinary guidance." }
+      ],
+      "ageComparison": [
+        { "petAge": "1 snake year", "humanAge": "No accepted human-age conversion" },
+        { "petAge": "5 snake years", "humanAge": "No standardized equivalent" },
+        { "petAge": "10+ snake years", "humanAge": "Aging varies by species and individual health" }
+      ]
+    },
+    {
+      "petId": "hamster-syrian",
+      "samplePicture": "🐹",
+      "generalInformation": "The largest commonly kept hamster species. Syrians are generally housed alone and need a spacious, secure enclosure with deep bedding and a suitable wheel.",
+      "traits": ["Mostly active during evening and night", "Needs opportunities to burrow, forage, and chew safely", "Wake gently; abrupt disturbance can cause stress or bites"],
+      "diet": {
+        "foodsEats": "An omnivorous rodent; use a complete hamster diet with carefully selected fresh foods as appropriate.",
+        "allowed": ["Complete hamster pellets or balanced species-formulated mix", "Small portions of hamster-safe fresh vegetables", "Fresh clean water"],
+        "dangerous": ["Chocolate, caffeine, alcohol, and onion-family foods", "Sticky or sugary foods and large amounts of fruit", "Unknown plants, salty snacks, and spoiled fresh food"]
+      },
+      "mating": {
+        "season": "Captive hamsters can reproduce throughout the year; breeding should not be attempted casually.",
+        "frequency": "Females may cycle frequently, but frequent pregnancy is harmful and not appropriate pet management.",
+        "note": "House Syrians separately. Prevent accidental litters and ask an exotic veterinarian about reproductive health."
+      },
+      "ageBehavior": [
+        { "age": "Pup", "ageRange": "Birth to weaning, usually around 3–4 weeks", "behavior": "Born dependent and develops rapidly; avoid disturbing the nest and seek expert help if care concerns arise." },
+        { "age": "Young hamster", "ageRange": "About 1 month to 12 months", "behavior": "Explores and exercises mostly at night; build trust with calm, predictable interaction." },
+        { "age": "Older hamster", "ageRange": "Often around 18–24 months onward; lifespan varies by species", "behavior": "May sleep more or move less; adjust access to food and water and consult a veterinarian about changes." }
+      ],
+      "ageComparison": [
+        { "petAge": "6 months", "humanAge": "Roughly a young adult; comparison is approximate" },
+        { "petAge": "1 year", "humanAge": "Often compared to middle age; no exact conversion" },
+        { "petAge": "2 years", "humanAge": "Senior life stage; individual aging varies" }
+      ]
+    },
+    {
+      "petId": "hamster-roborovski",
+      "samplePicture": "🐹",
+      "generalInformation": "A very small, fast-moving dwarf hamster. Provide secure housing, deep bedding, a correctly sized wheel, and patient, low-stress interaction.",
+      "traits": ["Quick and active, especially at night", "May prefer observation to frequent handling", "Can squeeze through surprisingly small gaps; enclosure security matters"],
+      "diet": {
+        "foodsEats": "An omnivorous rodent; provide complete hamster food appropriate for small hamsters.",
+        "allowed": ["Complete hamster pellets or balanced species-formulated mix", "Tiny portions of suitable fresh vegetables", "Fresh clean water"],
+        "dangerous": ["Chocolate, caffeine, alcohol, and onion-family foods", "Sticky foods that can be difficult to remove from cheek pouches", "Salty snacks, spoiled food, and unknown plants"]
+      },
+      "mating": {
+        "season": "Captive breeding may occur year-round; seasonal patterns in nature depend on habitat.",
+        "frequency": "Reproduction can occur rapidly. There is no recommended pet breeding frequency.",
+        "note": "Sex accurately and house responsibly; seek an exotic veterinarian's advice to prevent accidental litters."
+      },
+      "ageBehavior": [
+        { "age": "Pup", "ageRange": "Birth to weaning, usually around 3–4 weeks", "behavior": "Develops quickly and is vulnerable to disturbance; seek specialist guidance for young animals." },
+        { "age": "Young hamster", "ageRange": "About 1 month to 12 months", "behavior": "Often runs and forages actively at night; provide a secure enclosure and enrichment." },
+        { "age": "Older hamster", "ageRange": "Often around 18–24 months onward; lifespan varies by species", "behavior": "May slow down or change weight; monitor closely and consult an exotic veterinarian." }
+      ],
+      "ageComparison": [
+        { "petAge": "6 months", "humanAge": "Roughly a young adult; comparison is approximate" },
+        { "petAge": "1 year", "humanAge": "Often compared to middle age; no exact conversion" },
+        { "petAge": "2 years", "humanAge": "Senior life stage; individual aging varies" }
+      ]
+    },
+    {
+      "petId": "hamster-campbell",
+      "samplePicture": "🐹",
+      "generalInformation": "A small dwarf hamster. Provide secure, spacious housing with deep bedding, places to hide, and a diet suited to its size and health.",
+      "traits": ["Often active at dusk and night", "Needs regular access to safe chewing and foraging enrichment", "Temperament and tolerance of handling vary between individuals"],
+      "diet": {
+        "foodsEats": "An omnivorous rodent; choose a complete diet formulated for hamsters and portion fresh foods carefully.",
+        "allowed": ["Complete hamster pellets or balanced species-formulated mix", "Small portions of suitable vegetables", "Fresh clean water"],
+        "dangerous": ["Chocolate, caffeine, alcohol, and onion-family foods", "Sugary treats and large amounts of fruit", "Salty snacks, spoiled food, and unknown plants"]
+      },
+      "mating": {
+        "season": "Captive animals may breed year-round; natural timing is influenced by environmental conditions.",
+        "frequency": "Reproduction may happen quickly. No breeding schedule is appropriate for ordinary pet care.",
+        "note": "Prevent accidental litters and seek an exotic-animal veterinarian's advice about reproductive care."
+      },
+      "ageBehavior": [
+        { "age": "Pup", "ageRange": "Birth to weaning, usually around 3–4 weeks", "behavior": "Young hamsters develop rapidly; minimize stress and seek expert advice if the mother or litter needs help." },
+        { "age": "Young hamster", "ageRange": "About 1 month to 12 months", "behavior": "Forages and exercises mostly during quieter hours; provide enrichment and gentle interaction." },
+        { "age": "Older hamster", "ageRange": "Often around 18–24 months onward; lifespan varies by species", "behavior": "Activity may decrease; monitor body condition and make food and water easy to reach." }
+      ],
+      "ageComparison": [
+        { "petAge": "6 months", "humanAge": "Roughly a young adult; comparison is approximate" },
+        { "petAge": "1 year", "humanAge": "Often compared to middle age; no exact conversion" },
+        { "petAge": "2 years", "humanAge": "Senior life stage; individual aging varies" }
+      ]
+    },
+    {
+      "petId": "fish-parrot-cichlid",
+      "samplePicture": "🐠",
+      "generalInformation": "A human-bred freshwater cichlid hybrid sold under several names. Adult size, body shape, and health vary; provide a large, well-filtered freshwater aquarium and avoid impulse purchases.",
+      "traits": ["Active, social cichlid behavior; compatibility varies by individual", "Needs stable water quality and generous swimming space", "Some forms have body shapes that can be associated with welfare concerns"],
+      "diet": {
+        "foodsEats": "Use a complete cichlid or omnivorous tropical-fish food suited to its size, with variety recommended by an aquatic veterinarian.",
+        "allowed": ["Quality formulated cichlid pellets", "Appropriate prepared or frozen aquatic foods", "Small portions of aquarium-safe vegetables if advised for the diet"],
+        "dangerous": ["Bread and processed human foods", "Overfeeding that degrades water quality", "Unquarantined live foods or foods with unknown contamination"]
+      },
+      "mating": {
+        "season": "Captive breeding behavior may occur under aquarium conditions, but hybrid fertility varies and is not reliably predictable.",
+        "frequency": "No responsible home-breeding frequency can be assumed; not all individuals are fertile or compatible.",
+        "note": "Do not breed or release aquarium fish without expert guidance and a responsible plan for offspring."
+      },
+      "ageBehavior": [
+        { "age": "Juvenile", "ageRange": "Young fish; age is difficult to infer without hatch records", "behavior": "Growing fish need stable water, appropriately sized food, and room to develop." },
+        { "age": "Adult", "ageRange": "After sexual/physical maturity; timing varies by fish and conditions", "behavior": "May establish territories and interact with tankmates; monitor compatibility and water quality." },
+        { "age": "Older fish", "ageRange": "Age and lifespan vary; no simple calendar cutoff", "behavior": "Changes in appetite, swimming, or buoyancy deserve water checks and aquatic veterinary advice." }
+      ],
+      "ageComparison": [
+        { "petAge": "Fish age", "humanAge": "No reliable fish-to-human age conversion" },
+        { "petAge": "Life stage", "humanAge": "Use species-specific size, health, and breeder records rather than a human-age chart" }
+      ]
+    },
+    {
+      "petId": "fish-marine-parrotfish",
+      "samplePicture": "🐟",
+      "generalInformation": "Marine parrotfish are a diverse group of reef fish, many of which grow large and have specialized grazing diets. They are generally unsuitable for ordinary home aquariums.",
+      "traits": ["Marine reef fish; needs a mature, stable saltwater system", "Many species graze algae and have specialized nutritional needs", "Adult size and ecological needs vary greatly among species"],
+      "diet": {
+        "foodsEats": "Diet is species-specific and often includes algae or other reef resources; consult a public-aquarium or marine-fish specialist.",
+        "allowed": ["Only species-appropriate marine foods recommended by a qualified specialist", "Stable, professionally monitored marine water conditions"],
+        "dangerous": ["Freshwater fish diets assumed suitable for marine species", "Unverified wild collection or unsuitable aquarium foods", "Releasing captive fish into the ocean or local waterways"]
+      },
+      "mating": {
+        "season": "Breeding biology differs between parrotfish species and reef locations.",
+        "frequency": "No general home-aquarium breeding frequency is applicable to this diverse group.",
+        "note": "Identify the exact species and consult marine aquaculture experts; many species are not suitable private aquarium animals."
+      },
+      "ageBehavior": [
+        { "age": "Juvenile", "ageRange": "Species-dependent; age is not reliably determined by appearance alone", "behavior": "Young reef fish use habitat and feeding strategies that vary by species." },
+        { "age": "Adult", "ageRange": "Maturity timing varies widely by species", "behavior": "Size, social behavior, diet, and habitat needs differ significantly across parrotfish species." },
+        { "age": "Older fish", "ageRange": "No universal age band for the group", "behavior": "Use species-specific research and qualified marine-animal expertise." }
+      ],
+      "ageComparison": [
+        { "petAge": "Parrotfish age", "humanAge": "No reliable fish-to-human age conversion" },
+        { "petAge": "Life stage", "humanAge": "Species-specific; use verified records and scientific references" }
+      ]
+    },
+    {
+      "petId": "hedgehog-african-pygmy",
+      "samplePicture": "🦔",
+      "generalInformation": "A nocturnal exotic mammal kept in some regions as a pet. Laws vary by location; confirm legality and find an exotic-animal veterinarian before adopting.",
+      "traits": ["Mostly active at night and needs quiet daytime rest", "Requires a warm, secure enclosure and a solid-surface exercise wheel", "Can roll into a defensive ball; allow patient, low-stress handling"],
+      "diet": {
+        "foodsEats": "Primarily insectivorous; provide a complete hedgehog diet recommended by an exotic-animal veterinarian, with suitable insects as directed.",
+        "allowed": ["Complete hedgehog food formulated for the species", "Appropriate gut-loaded insects in controlled portions", "Fresh clean water"],
+        "dangerous": ["Milk and dairy products", "Chocolate, alcohol, and heavily seasoned or sugary foods", "Wild insects that may carry pesticides or parasites"]
+      },
+      "mating": {
+        "season": "Breeding season and cycles depend on species and environment; pet hedgehogs should not be bred casually.",
+        "frequency": "There is no appropriate routine breeding frequency for a companion hedgehog.",
+        "note": "Breeding and pregnancy can carry risks. Seek exotic-veterinary guidance and check local law; prevent accidental contact between sexes."
+      },
+      "ageBehavior": [
+        { "age": "Hoglet", "ageRange": "Birth to weaning, commonly around 6–8 weeks; exact timing varies", "behavior": "Young are dependent and need specialized care; avoid disturbing the nest and consult an experienced veterinarian." },
+        { "age": "Young hedgehog", "ageRange": "After weaning through the first year", "behavior": "Explores mostly at night; establish a calm routine and monitor eating and weight." },
+        { "age": "Adult", "ageRange": "About 1–3 years; individual development varies", "behavior": "Nocturnal activity and self-anointing can be normal; note sudden changes in movement or appetite." },
+        { "age": "Older hedgehog", "ageRange": "Around 3+ years; lifespan and aging vary", "behavior": "May need more health monitoring; seek prompt veterinary advice for weight loss or reduced activity." }
+      ],
+      "ageComparison": [
+        { "petAge": "Hedgehog age", "humanAge": "No well-established pet-to-human age conversion" },
+        { "petAge": "Life stage", "humanAge": "Use veterinary assessment; lifespan varies by individual and care" }
+      ]
+    },
+    {
+      "petId": "turtle-red-eared-slider",
+      "samplePicture": "🐢",
+      "generalInformation": "A long-lived semi-aquatic turtle that grows much larger than many new keepers expect. It needs a large aquatic habitat, powerful filtration, dry basking access, heat, and UVB.",
+      "traits": ["Strong swimmer that needs clean, appropriately deep water", "Must be able to leave the water completely to bask and dry", "Can carry Salmonella without appearing ill; careful handwashing is essential"],
+      "diet": {
+        "foodsEats": "Diet changes with age and should combine species-appropriate aquatic turtle pellets and suitable greens or other foods advised by a reptile veterinarian.",
+        "allowed": ["Complete aquatic turtle food in measured portions", "Suitable leafy greens and aquatic plants as appropriate", "Clean water and a properly maintained aquatic habitat"],
+        "dangerous": ["Unbalanced diets based only on dried shrimp or treats", "Human junk food and unverified wild plants", "Releasing a pet turtle into nature; it can spread disease and become invasive"]
+      },
+      "mating": {
+        "season": "Wild breeding cycles vary by climate and region; captive reproduction is not a pet-care goal.",
+        "frequency": "No recommended home-breeding frequency; egg-laying and breeding create significant welfare and husbandry needs.",
+        "note": "Check local laws before acquiring or transferring this species. Never release it outdoors; consult a reptile veterinarian about reproductive concerns."
+      },
+      "ageBehavior": [
+        { "age": "Hatchling", "ageRange": "From hatching through the first year; growth varies with care and environment", "behavior": "Small turtles need stable water, basking heat, UVB, and careful hygiene." },
+        { "age": "Juvenile", "ageRange": "Approximately 1 year to maturity; maturity varies by sex and conditions", "behavior": "Grows quickly and needs habitat upgrades as it gets larger; monitor appetite and shell condition." },
+        { "age": "Adult", "ageRange": "Maturity commonly takes several years; ask a reptile veterinarian for species-specific guidance", "behavior": "Needs a very spacious long-term habitat, stable UVB and heat, and ongoing water-quality care." },
+        { "age": "Older turtle", "ageRange": "Can live for decades; there is no universal senior cutoff", "behavior": "Continue preventive care and consult a reptile veterinarian about changes in activity or appetite." }
+      ],
+      "ageComparison": [
+        { "petAge": "Turtle age", "humanAge": "No reliable turtle-to-human age conversion" },
+        { "petAge": "Life stage", "humanAge": "Species, sex, and conditions affect growth; ask a reptile veterinarian" }
+      ]
+    },
+    {
+      "petId": "turtle-common-musk",
+      "samplePicture": "🐢",
+      "generalInformation": "A small-bodied aquatic turtle compared with many pet turtles, but it still needs a secure aquatic setup, clean filtered water, heat, UVB, and a place to rest and bask. Small size does not mean low-care.",
+      "traits": ["Mostly aquatic and often rests on submerged structures", "Needs clean water and accessible resting/basking places", "Handle only when necessary and wash hands after contact"],
+      "diet": {
+        "foodsEats": "An omnivorous aquatic turtle; use complete aquatic turtle food and suitable animal and plant matter advised by a reptile veterinarian.",
+        "allowed": ["Complete aquatic turtle pellets in measured portions", "Species-appropriate invertebrate foods from safe sources", "Suitable aquatic plants or greens as advised"],
+        "dangerous": ["Unbalanced diets made only of dried shrimp or treats", "Wild-caught prey or unknown plants", "Releasing a captive turtle into local waterways"]
+      },
+      "mating": {
+        "season": "Wild breeding timing varies with location and environmental conditions.",
+        "frequency": "There is no recommended breeding schedule for a pet turtle.",
+        "note": "Breeding requires expert planning, adequate nesting habitat, and care for offspring. Seek reptile veterinary guidance."
+      },
+      "ageBehavior": [
+        { "age": "Hatchling", "ageRange": "Hatching through the first year; growth varies", "behavior": "Needs stable water, food suited to its size, secure cover, heat, and UVB." },
+        { "age": "Juvenile", "ageRange": "About 1 year until maturity; individual timing varies", "behavior": "May explore and forage; monitor growth, water quality, and habitat access." },
+        { "age": "Adult", "ageRange": "Maturity takes several years and varies by sex and care", "behavior": "Maintain a spacious, clean aquatic enclosure with resting areas and appropriate basking access." },
+        { "age": "Older turtle", "ageRange": "Can live for many years; no universal senior cutoff", "behavior": "Watch for changes in activity, feeding, or buoyancy and consult a reptile veterinarian." }
+      ],
+      "ageComparison": [
+        { "petAge": "Turtle age", "humanAge": "No reliable turtle-to-human age conversion" },
+        { "petAge": "Life stage", "humanAge": "Species and environment affect development; use reptile veterinary advice" }
+      ]
+    },
+    {
+      "petId": "hermit-crab-caribbean",
+      "samplePicture": "🦀",
+      "generalInformation": "A land-dwelling hermit crab often sold as a pet. These are social tropical crustaceans with complex humidity, temperature, deep-substrate, water, diet, and shell needs; they are not disposable or low-maintenance pets.",
+      "traits": ["Uses borrowed shells and must have suitable spare shells available", "Molts by burying itself; do not dig up or handle a buried crab", "Needs both safe freshwater and marine-saltwater pools, with safe access in and out"],
+      "diet": {
+        "foodsEats": "An omnivorous scavenger; provide varied, unseasoned foods from safe sources and remove spoiled food promptly.",
+        "allowed": ["A varied mix of suitable vegetables, fruit, and protein foods", "Calcium sources and appropriate leaf litter as advised by experienced keepers", "Fresh dechlorinated water and correctly mixed marine saltwater in separate pools"],
+        "dangerous": ["Table salt, chlorinated water, or freshwater aquarium salt used instead of marine salt mix", "Seasoned, sugary, or preservative-heavy foods", "Painted shells and unsafe materials or metals in the enclosure"]
+      },
+      "mating": {
+        "season": "Reproduction depends on species and natural marine conditions; captive breeding is difficult and not a routine home-care activity.",
+        "frequency": "No responsible home breeding frequency is established for ordinary pet care.",
+        "note": "Do not disturb crabs during a molt or attempt breeding without specialist knowledge of larval marine care."
+      },
+      "ageBehavior": [
+        { "age": "Newly settled crab", "ageRange": "Exact age is usually unknown; imported crabs may already be adults", "behavior": "May hide while adjusting; provide stable conditions and minimize handling." },
+        { "age": "Molting crab", "ageRange": "Molts recur as the crab grows; interval depends on size and conditions", "behavior": "Often buries itself and becomes inactive; protect it from disturbance and other crabs." },
+        { "age": "Adult", "ageRange": "Age cannot be reliably estimated from size alone", "behavior": "Nocturnal social foraging and shell changes can be normal; monitor food, humidity, and behavior." }
+      ],
+      "ageComparison": [
+        { "petAge": "Hermit crab age", "humanAge": "Usually unknown; no reliable human-age conversion" },
+        { "petAge": "Life stage", "humanAge": "Molting and growth vary; shell size is not an age chart" }
+      ]
+    },
+    {
+      "petId": "hermit-crab-ecuadorian",
+      "samplePicture": "🦀",
+      "generalInformation": "A small land hermit crab type. Provide a secure tropical enclosure, deep substrate, stable humidity and temperature, safe pools, varied food, and a selection of natural shells.",
+      "traits": ["Can be very active and social when conditions are suitable", "Needs appropriately sized unpainted shells to change into", "Molting crabs must be left undisturbed underground"],
+      "diet": {
+        "foodsEats": "An omnivorous scavenger; offer varied, unseasoned plant and protein foods in small amounts.",
+        "allowed": ["Suitable fresh produce and plain protein foods", "Calcium-rich sources and leaf litter recommended by experienced keepers", "Separate safe freshwater and marine-saltwater pools"],
+        "dangerous": ["Painted or treated shells", "Chlorinated water, table salt, and unsafe metal objects", "Seasoned, sugary, or spoiled foods"]
+      },
+      "mating": {
+        "season": "Natural breeding cycles are linked to marine larval development and environmental conditions.",
+        "frequency": "Captive breeding is not a simple or predictable home activity; there is no recommended pet breeding frequency.",
+        "note": "Successful larvae require specialized marine rearing. Avoid breeding attempts without expert invertebrate-care support."
+      },
+      "ageBehavior": [
+        { "age": "Newly settled crab", "ageRange": "Age is usually unknown; allow time to acclimate", "behavior": "May hide or explore at night; keep humidity and temperature stable." },
+        { "age": "Molting crab", "ageRange": "Molting interval varies with size and individual growth", "behavior": "May remain buried and inactive; do not dig it up or return it to the surface." },
+        { "age": "Adult", "ageRange": "Chronological age is rarely known for pet-trade crabs", "behavior": "May forage socially and change shells; provide compatible companions and several shell options." }
+      ],
+      "ageComparison": [
+        { "petAge": "Hermit crab age", "humanAge": "No reliable human-age conversion" },
+        { "petAge": "Life stage", "humanAge": "Age is difficult to determine; molt history and shell size are not precise measures" }
+      ]
+    }
+  ]
+}

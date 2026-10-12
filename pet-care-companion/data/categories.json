@@ -1,0 +1,90 @@
+{
+  "_note": "Edit this file to update category information, general traits, care tips, or specific pet types. Keep each id matched to a category id in pets.json. Pet IDs must be globally unique because favorites are saved by ID.",
+  "categories": [
+    {
+      "id": "dog",
+      "description": "Dogs are social, active companions. Their exercise, grooming, and nutrition needs vary by age, size, and breed.",
+      "careTips": ["Provide fresh water and daily exercise.", "Keep vaccinations and parasite prevention up to date.", "Use positive, reward-based training."],
+      "pets": [
+        { "id": "dog-labrador", "name": "Labrador Retriever", "type": "Dog breed", "description": "Friendly, energetic, and happiest with regular exercise." },
+        { "id": "dog-poodle", "name": "Poodle", "type": "Dog breed", "description": "Intelligent and active; curly coats need regular grooming." },
+        { "id": "dog-shiba", "name": "Shiba Inu", "type": "Dog breed", "description": "Alert and independent; consistent training and enrichment help." }
+      ]
+    },
+    {
+      "id": "cat",
+      "description": "Cats benefit from a safe, enriching environment, predictable routines, and regular veterinary care.",
+      "careTips": ["Keep litter trays clean and easy to reach.", "Offer scratching posts, play, and places to climb.", "Provide fresh water and age-appropriate food."],
+      "pets": [
+        { "id": "cat-domestic-shorthair", "name": "Domestic Shorthair", "type": "Cat type", "description": "A varied group of short-coated cats with many personalities." },
+        { "id": "cat-persian", "name": "Persian", "type": "Cat breed", "description": "A calm long-haired breed that needs frequent coat care." },
+        { "id": "cat-siamese", "name": "Siamese", "type": "Cat breed", "description": "Social and vocal; enjoys interaction and play." }
+      ]
+    },
+    {
+      "id": "fish",
+      "description": "Healthy fishkeeping starts with a properly sized, cycled aquarium and water conditions suited to the species.",
+      "careTips": ["Test water quality and maintain a stable temperature.", "Do not overcrowd the aquarium.", "Research whether species are compatible before housing them together."],
+      "pets": [
+        { "id": "fish-betta", "name": "Betta", "type": "Freshwater fish", "description": "Needs warm, clean water and a suitably sized, filtered habitat." },
+        { "id": "fish-goldfish", "name": "Goldfish", "type": "Freshwater fish", "description": "Requires a spacious, well-filtered setup and good water quality." },
+        { "id": "fish-guppy", "name": "Guppy", "type": "Freshwater fish", "description": "A small, active fish that does best in stable, clean water." },
+        { "id": "fish-parrot-cichlid", "name": "Blood Parrot Cichlid", "type": "Freshwater hybrid cichlid", "description": "A human-bred freshwater cichlid hybrid commonly sold as a parrot fish; needs a large, filtered aquarium and carefully chosen tankmates." }
+      ]
+    },
+    {
+      "id": "parrot-fish",
+      "description": "Marine parrotfishes are large, active reef fish with specialized diets and habitat needs. They are generally unsuitable for typical home aquariums; verify local species, legality, and expert care requirements before considering one.",
+      "careTips": ["Do not assume marine parrotfish have the same care needs as freshwater blood parrot cichlids.", "Research the exact species, adult size, marine system requirements, and legal status with an aquatic veterinarian or public aquarium expert.", "Never release aquarium fish into the wild."],
+      "pets": [
+        { "id": "fish-marine-parrotfish", "name": "Marine Parrotfish", "type": "Marine reef fish", "description": "A broad group of reef-dwelling marine fish, often large and highly specialized; not a typical home aquarium pet." }
+      ]
+    },
+    {
+      "id": "hedgehog",
+      "description": "Hedgehogs are nocturnal exotic mammals with specialist housing, temperature, diet, and veterinary needs. Check local laws before considering one.",
+      "careTips": ["Provide a secure, spacious enclosure with a suitable temperature gradient and hiding place.", "Use a solid-surface exercise wheel and safe bedding.", "Find an exotic-animal veterinarian before bringing a hedgehog home."],
+      "pets": [
+        { "id": "hedgehog-african-pygmy", "name": "African Pygmy Hedgehog", "type": "Hedgehog", "description": "A commonly kept hedgehog type requiring warm, secure housing and specialist care." }
+      ]
+    },
+    {
+      "id": "snake",
+      "description": "Pet snakes need a secure enclosure with carefully controlled heat, humidity, and hiding places.",
+      "careTips": ["Use a thermostat with all heat sources.", "Provide appropriately sized hides and secure enclosure locks.", "Confirm diet and handling needs with an exotic-animal veterinarian."],
+      "pets": [
+        { "id": "snake-corn", "name": "Corn Snake", "type": "Snake species", "description": "A commonly kept species that still requires a secure, correctly heated enclosure." },
+        { "id": "snake-ball-python", "name": "Ball Python", "type": "Snake species", "description": "Needs consistent heat and humidity plus several snug hides." },
+        { "id": "snake-rosy-boa", "name": "Rosy Boa", "type": "Snake species", "description": "A terrestrial boa that needs suitable warm and cool zones." }
+      ]
+    },
+    {
+      "id": "hamster",
+      "description": "Hamsters are small, mostly nocturnal animals that need a secure, spacious enclosure and opportunities to burrow.",
+      "careTips": ["Provide deep, safe bedding for burrowing.", "Use a solid-surface wheel sized for the hamster.", "Handle gently and let the hamster wake naturally."],
+      "pets": [
+        { "id": "hamster-syrian", "name": "Syrian Hamster", "type": "Hamster type", "description": "Typically housed alone and needs a spacious enclosure." },
+        { "id": "hamster-roborovski", "name": "Roborovski Dwarf Hamster", "type": "Hamster type", "description": "Very small and quick; provide secure housing and gentle observation." },
+        { "id": "hamster-campbell", "name": "Campbell's Dwarf Hamster", "type": "Hamster type", "description": "A small hamster whose care should be tailored to its individual needs." }
+      ]
+    },
+    {
+      "id": "turtle",
+      "description": "Turtles have species-specific needs and can live for decades. Aquatic turtles need large, filtered water areas plus dry basking space, heat, and UVB lighting.",
+      "careTips": ["Research the exact species, adult size, legal status, and long-term lifespan before adoption.", "Provide appropriate UVB, heat, filtration, water depth, and a dry basking area for aquatic species.", "Wash hands after handling turtles or habitat items; reptiles can carry Salmonella without appearing ill."],
+      "pets": [
+        { "id": "turtle-red-eared-slider", "name": "Red-eared Slider", "type": "Aquatic turtle", "description": "A long-lived aquatic turtle that grows large and needs a very spacious, filtered habitat; it is restricted or invasive in some locations." },
+        { "id": "turtle-common-musk", "name": "Common Musk Turtle (Small Turtle)", "type": "Small aquatic turtle", "description": "A smaller aquatic turtle, but still a specialist reptile needing carefully managed water, heat, UVB, and adult-size planning." }
+      ]
+    },
+    {
+      "id": "hermit-crab",
+      "description": "Land hermit crabs are social, long-lived crustaceans with complex humidity, temperature, substrate, shell, and diet needs. Small starter containers are unsuitable.",
+      "careTips": ["Provide a secure, warm, humid enclosure with deep diggable substrate.", "Offer fresh and marine saltwater in safe, accessible pools, plus varied foods and spare shells.", "Avoid handling during a molt; provide enough space and companions of compatible size."],
+      "pets": [
+        { "id": "hermit-crab-caribbean", "name": "Caribbean Hermit Crab", "type": "Land hermit crab", "description": "A commonly sold land hermit crab that needs a humid, roomy habitat, suitable shells, and other compatible crabs." },
+        { "id": "hermit-crab-ecuadorian", "name": "Ecuadorian Hermit Crab", "type": "Land hermit crab", "description": "A small-bodied land hermit crab with specialist humidity, diet, shell, and social needs." }
+      ]
+    }
+  ]
+}
