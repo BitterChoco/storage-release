@@ -4,5 +4,5 @@
   "filters": {
     "favoritesOnly": false
   },
-  "availableThemes": ["light", "dark", "blue", "orange", "green", "yellow"]
+  "availableThemes": ["light", "blue", "orange", "green", "yellow", "rose", "dark", "midnight", "charcoal"]
 }
