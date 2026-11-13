@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "files": [
     {
       "path": "game/arena/arena_1.png",
@@ -114,26 +114,26 @@
     },
     {
       "path": "game/enemy/enemy_1-2.png",
-      "size": 42717,
-      "sha256": "a81ac7e410bfcf69c1b6fb1593a7a6b10498fa7b319edd1ecaaaa22a6a7b53f4"
-    },
-    {
-      "path": "game/enemy/enemy_1-3.png",
-      "size": 41449,
-      "sha256": "0f166643ef511c9aaf920f451a473c4d89af7704541056d0f11537ab5a900ff9"
-    },
-    {
-      "path": "game/enemy/enemy_1-4.png",
       "size": 41347,
       "sha256": "322f77e3dcb74edd447a2201e80a5d8f59dbdcee998dc617c534d49d2404a09c"
     },
     {
       "path": "game/enemy/enemy_2-1.png",
+      "size": 41449,
+      "sha256": "0f166643ef511c9aaf920f451a473c4d89af7704541056d0f11537ab5a900ff9"
+    },
+    {
+      "path": "game/enemy/enemy_2-2.png",
+      "size": 42717,
+      "sha256": "a81ac7e410bfcf69c1b6fb1593a7a6b10498fa7b319edd1ecaaaa22a6a7b53f4"
+    },
+    {
+      "path": "game/enemy/enemy_3-1.png",
       "size": 49977,
       "sha256": "e7aa43f847520039ec0382275d43c7a5ba88822408c067e169eb7b0212a122b5"
     },
     {
-      "path": "game/enemy/enemy_2-2.png",
+      "path": "game/enemy/enemy_3-2.png",
       "size": 40625,
       "sha256": "33b2b426e5352a4c06f60ff91517f809e7cbf1b99b45cf6bc4649923926382ac"
     },
