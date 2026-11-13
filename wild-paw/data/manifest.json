@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.7",
+  "version": "1.1.0",
   "files": [
     {
       "path": "game/arena/arena_1.png",
@@ -89,8 +89,8 @@
     },
     {
       "path": "game/constants/profile-borders.json",
-      "size": 302,
-      "sha256": "fe0030af37cd09a7ab50282819f88e7fbf44c1d77c922aaac7ebbb021b32f9c4"
+      "size": 194,
+      "sha256": "2e7c753fc4035201da17da3646dfdee7c33374f45d932dd21307bfa141c01e92"
     },
     {
       "path": "game/constants/profile-pictures.json",
@@ -104,8 +104,8 @@
     },
     {
       "path": "game/constants/store-pricing.json",
-      "size": 2452,
-      "sha256": "e0af23c1a092c2ec8092ae93f73dd7b8f4d32a7cd0c0208a1a1e098e2e0e309d"
+      "size": 2822,
+      "sha256": "f88ee1067e276b8c64c20a1e73727c1ef5162fc910a144b5b593782fa0c649f9"
     },
     {
       "path": "game/enemy/enemy_1-1.png",

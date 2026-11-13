@@ -1,4 +1,12 @@
 {
+  "profileBorders": {
+    "border_1": { "price": 300, "discountPercent": 0 },
+    "border_2": { "price": 300, "discountPercent": 0 },
+    "border_3": { "price": 300, "discountPercent": 0 },
+    "border_4": { "price": 300, "discountPercent": 0 },
+    "border_5": { "price": 300, "discountPercent": 0 },
+    "border_6": { "price": 300, "discountPercent": 0 }
+  },
   "defaults": {
     "hero": { "price": 500, "discountPercent": 0 },
     "skin": { "price": 250, "discountPercent": 0 },

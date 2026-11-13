@@ -1,17 +1,42 @@
 {
-  "defaultId": "border_1",
+  "defaultId": "none",
   "items": [
     {
       "id": "none",
       "name": "No Border",
       "image": null,
-      "color": "rgba(255,255,255,0.28)",
-      "width": 1
+      "color": "transparent",
+      "width": 0
     },
     {
       "id": "border_1",
       "name": "Wild Paw Frame",
       "image": "border_1.png"
+    },
+    {
+      "id": "border_2",
+      "name": "Border 2",
+      "image": "border_2.png"
+    },
+    {
+      "id": "border_3",
+      "name": "Border 3",
+      "image": "border_3.png"
+    },
+    {
+      "id": "border_4",
+      "name": "Border 4",
+      "image": "border_4.png"
+    },
+    {
+      "id": "border_5",
+      "name": "Border 5",
+      "image": "border_5.png"
+    },
+    {
+      "id": "border_6",
+      "name": "Border 6",
+      "image": "border_6.png"
     }
   ]
 }
