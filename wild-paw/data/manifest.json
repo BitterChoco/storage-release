@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "files": [
     {
       "path": "game/arena/arena_1.png",
@@ -108,6 +108,36 @@
       "sha256": "e0af23c1a092c2ec8092ae93f73dd7b8f4d32a7cd0c0208a1a1e098e2e0e309d"
     },
     {
+      "path": "game/enemy/enemy_1-1.png",
+      "size": 45886,
+      "sha256": "bdcc6b4e76a2b59e835a88bf4e78cd23b5be82f3855dd92f25804c00cf5e6f27"
+    },
+    {
+      "path": "game/enemy/enemy_1-2.png",
+      "size": 42717,
+      "sha256": "a81ac7e410bfcf69c1b6fb1593a7a6b10498fa7b319edd1ecaaaa22a6a7b53f4"
+    },
+    {
+      "path": "game/enemy/enemy_1-3.png",
+      "size": 41449,
+      "sha256": "0f166643ef511c9aaf920f451a473c4d89af7704541056d0f11537ab5a900ff9"
+    },
+    {
+      "path": "game/enemy/enemy_1-4.png",
+      "size": 41347,
+      "sha256": "322f77e3dcb74edd447a2201e80a5d8f59dbdcee998dc617c534d49d2404a09c"
+    },
+    {
+      "path": "game/enemy/enemy_2-1.png",
+      "size": 49977,
+      "sha256": "e7aa43f847520039ec0382275d43c7a5ba88822408c067e169eb7b0212a122b5"
+    },
+    {
+      "path": "game/enemy/enemy_2-2.png",
+      "size": 40625,
+      "sha256": "33b2b426e5352a4c06f60ff91517f809e7cbf1b99b45cf6bc4649923926382ac"
+    },
+    {
       "path": "game/functions/background_2.png",
       "size": 2638547,
       "sha256": "d74e1fbcdd18d30fa41e973b30f6a97efdd74797a48699214f3490609c81a127"
@@ -161,6 +191,11 @@
       "path": "game/functions/hero_1.png",
       "size": 23225,
       "sha256": "c8ffd27fd4167f09609306a56420eabc637e016a97b5b99ea8b8b0de51032150"
+    },
+    {
+      "path": "game/functions/item_border_1.png",
+      "size": 31723,
+      "sha256": "bb17b9c26223c12082b20ae45678440b7bb67652881d0fb3184101c26b1eda6a"
     },
     {
       "path": "game/functions/minimize_1.png",
@@ -241,6 +276,11 @@
       "path": "game/icons/calendar_1.png",
       "size": 57644,
       "sha256": "7cc4a0c84b916ddbd614079881a52b980f6f6a5ad7b3783052ee506270881810"
+    },
+    {
+      "path": "game/icons/chest_1.png",
+      "size": 242058,
+      "sha256": "4a381a65f492af9bd7b1fbf14e680f4964d0d329cb91d91d6e07f5babf010199"
     },
     {
       "path": "game/icons/coin_1.png",
@@ -399,8 +439,33 @@
     },
     {
       "path": "game/profile/border/border_1.png",
-      "size": 210409,
-      "sha256": "b60e0dcc21c4c86891fd66c24ab72b19d4f282d3a7b1ee4d5769ba826f5c3128"
+      "size": 49264,
+      "sha256": "a19fe02a0cf0648da003cf1f7abbd07d7da1872e25b640dca295214c3033cdb7"
+    },
+    {
+      "path": "game/profile/border/border_2.png",
+      "size": 52377,
+      "sha256": "94193d598c6715e4353e33797ab18f8082ac6a5323b33d44cd823877239e23a5"
+    },
+    {
+      "path": "game/profile/border/border_3.png",
+      "size": 47357,
+      "sha256": "b7855a0dd47f54f167697d9bd11782a68b6b03fe16c7c76ccbbd54422512bf71"
+    },
+    {
+      "path": "game/profile/border/border_4.png",
+      "size": 31070,
+      "sha256": "4b0050a0fd179afce9cd7ab162abbae6119fad3aa421afdcb774a863f9c856d8"
+    },
+    {
+      "path": "game/profile/border/border_5.png",
+      "size": 118138,
+      "sha256": "9fdb508c4a341015ddef1ff9ebaf52fcbb0d220dd8b3c20235432c93b12f40f9"
+    },
+    {
+      "path": "game/profile/border/border_6.png",
+      "size": 103530,
+      "sha256": "984533b4f356c4fde0fb0a0277f4c396a49dd45c6abc6ef70931d631423e7029"
     },
     {
       "path": "game/profile/picture/profile_cat.png",
@@ -416,6 +481,16 @@
       "path": "game/profile/picture/profile_rabbit.png",
       "size": 455153,
       "sha256": "9b1ccd6d4881f4fdc4df09fc353066d9458345a9e98ddb6942faf8a890d1face"
+    },
+    {
+      "path": "game/weapon/fireball_1.png",
+      "size": 263061,
+      "sha256": "bedcd2319976bbe7f4dcad3cd1295b77dfa2705d2ca08e0263389a9fc92d31fb"
+    },
+    {
+      "path": "game/weapon/smoke_1.png",
+      "size": 48330,
+      "sha256": "9cbff3c4d637470bd816fbbf565c7286c67ec2792d6f3a3ac83e76612ec65adc"
     },
     {
       "path": "game/weapon/weapon_1-1.png",
