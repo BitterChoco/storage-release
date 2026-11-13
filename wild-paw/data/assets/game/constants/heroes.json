@@ -140,6 +140,36 @@
           "rarity": "legendary"
         }
       ]
+    },
+    {
+      "id": "fox",
+      "name": "Fox",
+      "type": "Trickster",
+      "rarity": "rare",
+      "accent": "#fb923c",
+      "ability": "Swift ambush",
+      "stats": { "power": 76, "speed": 88, "defense": 66 },
+      "image": "fox.png",
+      "skins": [
+        {
+          "id": "embercoat",
+          "name": "Embercoat",
+          "color": "#fb923c",
+          "rarity": "common"
+        },
+        {
+          "id": "moonfox",
+          "name": "Moonfox",
+          "color": "#c4b5fd",
+          "rarity": "rare"
+        },
+        {
+          "id": "shadowtail",
+          "name": "Shadowtail",
+          "color": "#94a3b8",
+          "rarity": "epic"
+        }
+      ]
     }
   ]
 }

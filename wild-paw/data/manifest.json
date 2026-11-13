@@ -69,38 +69,43 @@
     },
     {
       "path": "game/constants/buddies.json",
-      "size": 2763,
-      "sha256": "00a497ab1050d0b723ab7c477688bb701c3efcd1bfba3d0ec23b1b94c2c4d62e"
+      "size": 2879,
+      "sha256": "38ef4c737b8ccc36871e148f32fdafab20d84c6a07672e7f5b65cd26a842db2e"
     },
     {
       "path": "game/constants/coin-rewards.json",
-      "size": 26,
-      "sha256": "80e82bb957eae1cbdf69fc41935529188e19948fef5afb42a8c495eeee702c98"
+      "size": 29,
+      "sha256": "dff129ba3fe99855f3adc200047aaebce5b1c85c7c8f7ab6dd71f707d9145b4e"
     },
     {
       "path": "game/constants/drop-config.json",
-      "size": 1406,
-      "sha256": "eb32b75d563d72c94cf1c3b0056311c7716ce3228ec362ae257235ad6c92d324"
+      "size": 1469,
+      "sha256": "81991de08825ebee208f66d1904f1d03b07b3b9fb1e2689f1185ee5570f55156"
     },
     {
       "path": "game/constants/heroes.json",
-      "size": 3373,
-      "sha256": "eeeab38315872c8fe42f3d8bf1bcc2af12301a4ec88c76f30ad2af2d127710fa"
+      "size": 4236,
+      "sha256": "622084f5352c54a4b3d3c35e03d342dc8270a3ade38929e10593a8d9cd586c11"
     },
     {
       "path": "game/constants/profile-borders.json",
-      "size": 285,
-      "sha256": "aea8884b795ad073868740756c58294decc178ef1b1a064180f8ab67fc2f9b2e"
+      "size": 302,
+      "sha256": "fe0030af37cd09a7ab50282819f88e7fbf44c1d77c922aaac7ebbb021b32f9c4"
     },
     {
       "path": "game/constants/profile-pictures.json",
-      "size": 309,
-      "sha256": "eb95b9f313170a7dac3247fc7a2e4ce0347d0bcf0cca5ce248b5ea3196da83f3"
+      "size": 329,
+      "sha256": "92ce6a1aa1e34fdfb4ff989d6c7985a26ed11f72bb281088dd97d7e1d55e7562"
+    },
+    {
+      "path": "game/constants/redeem-codes.json",
+      "size": 732,
+      "sha256": "80fc4f9909004179b02d8f4f801602cd2d661b703d4f7fc0f20aad1fa66ff8bf"
     },
     {
       "path": "game/constants/store-pricing.json",
-      "size": 2142,
-      "sha256": "9c0861323a8d14b68d109e446173774fb5298f42ec8ba5d4e98055683a2c8d99"
+      "size": 2452,
+      "sha256": "e0af23c1a092c2ec8092ae93f73dd7b8f4d32a7cd0c0208a1a1e098e2e0e309d"
     },
     {
       "path": "game/functions/background_2.png",
@@ -208,9 +213,14 @@
       "sha256": "97601308ed0e52b98e4c19cc35db19e692d3b822596c7d3b9dcca6a980584ba7"
     },
     {
+      "path": "game/heroes/type/fox.png",
+      "size": 542211,
+      "sha256": "9c04b0c581369d8061694af785c6657d22b84515bdcd7e6e837893768ffec72c"
+    },
+    {
       "path": "game/heroes/type/owl.png",
-      "size": 1019757,
-      "sha256": "51e14d25033178dfe69e6dcbc12012dd6756b9218d84bfa3c381d34857d44e04"
+      "size": 998005,
+      "sha256": "fc9812ce145eea552032b913d0df9afd81bcbf0e9fc9d6b00f0d9762570db817"
     },
     {
       "path": "game/heroes/type/rabbit.png",
@@ -243,6 +253,16 @@
       "sha256": "6f560625b5afcd51b1ca7ebdefef0247978e4ee541b8b2dad342880eedb3d3fc"
     },
     {
+      "path": "game/icons/email_1.png",
+      "size": 75634,
+      "sha256": "ec9c8648b42e2134dbf4d6f1c047367102dc34ed808d253fc107864eb62f3a7b"
+    },
+    {
+      "path": "game/icons/friends_1.png",
+      "size": 71311,
+      "sha256": "936ada688881c0a0c175988505a51ad480bc51b3cc79d699469526a6542be776"
+    },
+    {
       "path": "game/icons/ghost_1.png",
       "size": 44169,
       "sha256": "eb29718af51d66ae456ea420fbf3eb156217cf579b8ad882f04263c9beb60e20"
@@ -266,6 +286,11 @@
       "path": "game/icons/play_1.png",
       "size": 42540,
       "sha256": "7ade09b240c12c489491053e891745852c32c7893a28732fca8c3d6ffd362a19"
+    },
+    {
+      "path": "game/icons/rank_1.png",
+      "size": 62867,
+      "sha256": "6712e2492dec3c46e75fad7eec34ce0af1d8e18cc23692a551018da31f3c55b5"
     },
     {
       "path": "game/icons/settings_1.png",
@@ -401,11 +426,6 @@
       "path": "game/weapon/weapon_1-2.png",
       "size": 133737,
       "sha256": "81e0e723fa89f1052f7d0535661efe6ea193cb96ac9439a2a84b713dc3d758c9"
-    },
-    {
-      "path": "images/background_1.png",
-      "size": 827719,
-      "sha256": "dd05954a5a169e81d15839d1fca86f8a26c582ca5de7c2fe969b0cf5be4556d0"
     }
   ]
 }

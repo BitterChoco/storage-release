@@ -10,7 +10,8 @@
     "dog": { "price": 0, "discountPercent": 0 },
     "rabbit": { "price": 450, "discountPercent": 0 },
     "bear": { "price": 650, "discountPercent": 15 },
-    "owl": { "price": 600, "discountPercent": 10 }
+    "owl": { "price": 600, "discountPercent": 10 },
+    "fox": { "price": 500, "discountPercent": 0 }
   },
   "orbs": {
     "orb_2": { "price": 350, "discountPercent": 0 },
@@ -53,6 +54,11 @@
       "moonfeather": { "price": 250, "discountPercent": 0 },
       "sunfeather": { "price": 300, "discountPercent": 10 },
       "shadowwing": { "price": 300, "discountPercent": 0 }
+    },
+    "fox": {
+      "embercoat": { "price": 250, "discountPercent": 0 },
+      "moonfox": { "price": 250, "discountPercent": 0 },
+      "shadowtail": { "price": 250, "discountPercent": 0 }
     }
   }
 }
