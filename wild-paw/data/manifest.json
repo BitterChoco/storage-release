@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "files": [
     {
       "path": "game/arena/arena_1.png",
@@ -484,8 +484,8 @@
     },
     {
       "path": "game/weapon/fireball_1.png",
-      "size": 263061,
-      "sha256": "bedcd2319976bbe7f4dcad3cd1295b77dfa2705d2ca08e0263389a9fc92d31fb"
+      "size": 145010,
+      "sha256": "1f4ce3c63f3992aa4dd5449eacecbb8f86ff9e887255cf3911752d4de7265fb5"
     },
     {
       "path": "game/weapon/smoke_1.png",
