@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "code": "WILDPAW202601",
+      "rewards": [
+        {"id":"coin", "amount": 10000},
+        {"id":"exp", "amount": 10000}
+      ],
+      "expiry": "2026-12-31T00:00:00Z"
+    },
+    {
+      "code": "WILDPAW202602",
+      "rewards": [
+        {"id":"coin", "amount": 10000},
+        {"id":"exp", "amount": 10000}
+      ],
+      "expiry": "2026-12-31T00:00:00Z"
+    },
+    {
+      "code": "WILDPAWLEVELUP",
+      "rewards": [
+        {"id":"exp", "amount": 50000}
+      ],
+      "expiry": "2027-12-31T00:00:00Z"
+    },
+    {
+      "code": "WILDPAWRICHES",
+      "rewards": [
+        {"id":"coin", "amount": 50000}
+      ],
+      "expiry": "2027-12-31T00:00:00Z"
+    }
+  ]
+}
