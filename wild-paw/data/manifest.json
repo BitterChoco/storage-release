@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "files": [
     {
       "path": "game/arena/arena_1.png",
@@ -89,8 +89,8 @@
     },
     {
       "path": "game/constants/profile-borders.json",
-      "size": 194,
-      "sha256": "2e7c753fc4035201da17da3646dfdee7c33374f45d932dd21307bfa141c01e92"
+      "size": 775,
+      "sha256": "d122a5e35d812599cfa5599598e732e55ba07e8ec5d7f199d6dc5c2106bcdbb4"
     },
     {
       "path": "game/constants/profile-pictures.json",
