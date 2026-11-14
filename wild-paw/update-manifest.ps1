@@ -44,13 +44,31 @@ $files = Get-ChildItem -LiteralPath $DataDirectory -File -Recurse -Force |
     }
 
 $files = @($files | Sort-Object -Property path)
-$manifest = [ordered]@{
-    schemaVersion = $schemaVersion
-    version       = $version
-    files         = $files
+
+$jsonLines = [System.Collections.Generic.List[string]]::new()
+$schemaVersionJson = ConvertTo-Json -InputObject $schemaVersion -Compress
+$versionJson = ConvertTo-Json -InputObject $version -Compress
+$jsonLines.Add('{')
+$jsonLines.Add("  `"schemaVersion`": $schemaVersionJson,")
+$jsonLines.Add("  `"version`": $versionJson,")
+$jsonLines.Add('  "files": [')
+
+for ($index = 0; $index -lt $files.Count; $index++) {
+    $file = $files[$index]
+    $pathJson = ConvertTo-Json -InputObject $file.path -Compress
+    $sizeJson = ConvertTo-Json -InputObject $file.size -Compress
+    $comma = if ($index -lt ($files.Count - 1)) { ',' } else { '' }
+
+    $jsonLines.Add('    {')
+    $jsonLines.Add("      `"path`": $pathJson,")
+    $jsonLines.Add("      `"size`": $sizeJson,")
+    $jsonLines.Add("      `"sha256`": `"$($file.sha256)`"")
+    $jsonLines.Add("    }$comma")
 }
-$json = ConvertTo-Json -InputObject $manifest -Depth 5
-$json += [Environment]::NewLine
+
+$jsonLines.Add('  ]')
+$jsonLines.Add('}')
+$json = [string]::Join([Environment]::NewLine, $jsonLines) + [Environment]::NewLine
 
 if ($PSCmdlet.ShouldProcess($manifestPath, 'Update file hashes and sizes')) {
     $temporaryPath = Join-Path $DataDirectory ([System.IO.Path]::GetRandomFileName())
