@@ -239,8 +239,8 @@
     },
     {
       "path": "assets/game/functions/item_border_1.png",
-      "size": 31723,
-      "sha256": "bb17b9c26223c12082b20ae45678440b7bb67652881d0fb3184101c26b1eda6a"
+      "size": 128129,
+      "sha256": "135a601920f79e6348627313b1408feb2c8e7fbf6977b9b684f6977a9dd43a7b"
     },
     {
       "path": "assets/game/functions/minimize_1.png",
@@ -306,6 +306,11 @@
       "path": "assets/game/heroes/type/rabbit.png",
       "size": 1001319,
       "sha256": "d87ba959e5288cca76cfa967f0122e2a18e2b276f1b3e0f09d72cb888545eedb"
+    },
+    {
+      "path": "assets/game/icons/bomb_1.png",
+      "size": 46856,
+      "sha256": "c946d979b9df507ae161b8444d4ee497bd164b026cf34b1fd5865fe680d77818"
     },
     {
       "path": "assets/game/icons/boots_fast_1.png",
