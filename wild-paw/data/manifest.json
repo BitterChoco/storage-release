@@ -144,8 +144,8 @@
     },
     {
       "path": "assets/game/constants/store-pricing.json",
-      "size": 2822,
-      "sha256": "f88ee1067e276b8c64c20a1e73727c1ef5162fc910a144b5b593782fa0c649f9"
+      "size": 2869,
+      "sha256": "2eee80729c603ce712823db09acaf5aaef74a73d0665e7a0321d006049d0378d"
     },
     {
       "path": "assets/game/enemy/enemy_1-1.png",
@@ -338,6 +338,11 @@
       "sha256": "6f560625b5afcd51b1ca7ebdefef0247978e4ee541b8b2dad342880eedb3d3fc"
     },
     {
+      "path": "assets/game/icons/diamond_1.png",
+      "size": 27667,
+      "sha256": "4f54596769ff4e620dc343520bbd0a4a48047c9cf814fa0236cb558ba360fc1a"
+    },
+    {
       "path": "assets/game/icons/email_1.png",
       "size": 75634,
       "sha256": "ec9c8648b42e2134dbf4d6f1c047367102dc34ed808d253fc107864eb62f3a7b"
@@ -353,6 +358,11 @@
       "sha256": "eb29718af51d66ae456ea420fbf3eb156217cf579b8ad882f04263c9beb60e20"
     },
     {
+      "path": "assets/game/icons/gift_1.png",
+      "size": 46058,
+      "sha256": "1bd0e10c4b84452d66ec56ada9ac7afb368721b0d1c494a7b7004cc73f8af104"
+    },
+    {
       "path": "assets/game/icons/health_1.png",
       "size": 48256,
       "sha256": "276dfd51e02ede98d6caed61c87df0eb8137aab68dcb124664d7d72fe659e347"
@@ -361,6 +371,11 @@
       "path": "assets/game/icons/home_1.png",
       "size": 77965,
       "sha256": "2309c1596d8a8514b2fda7b83959667068e4b53eaad11df0d0819872c1f0e7af"
+    },
+    {
+      "path": "assets/game/icons/inventory_1.png",
+      "size": 51372,
+      "sha256": "c4040f74ffd3d9dd0076158411de41837ab9c7a6483025d350f50d8d16f199e5"
     },
     {
       "path": "assets/game/icons/pause_1.png",
@@ -386,6 +401,11 @@
       "path": "assets/game/icons/shop_1.png",
       "size": 64916,
       "sha256": "183b6842140ced86779a0b07f82d7d3c00f2d241cea026f4f95538a147c9ef66"
+    },
+    {
+      "path": "assets/game/icons/star_1.png",
+      "size": 14019,
+      "sha256": "2fd1dc3afaad69830c9c68d3075d016cf9a8a6c0de0e8821b137f4d6e6927904"
     },
     {
       "path": "assets/game/icons/task_1.png",
