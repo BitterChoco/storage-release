@@ -15,6 +15,21 @@
       "id": "rabbit",
       "name": "Rabbit",
       "image": "profile_rabbit.png"
+    },
+    {
+      "id": "fox",
+      "name": "Fox",
+      "image": "profile_fox.png"
+    },
+    {
+      "id": "bear",
+      "name": "Bear",
+      "image": "profile_bear.png"
+    },
+    {
+      "id": "owl",
+      "name": "Owl",
+      "image": "profile_owl.png"
     }
   ]
 }

@@ -33,6 +33,11 @@
       "sha256": "c9976271847ae8ac03f948a11d09fe0278fa99d78a39200171dff24455e250c8"
     },
     {
+      "path": "assets/game/buddy/buddy_deer.png",
+      "size": 122953,
+      "sha256": "e415027158795f6743c6fc15e77ede9ba3662051d770da841c1a780281d070a7"
+    },
+    {
       "path": "assets/game/buddy/buddy_default.png",
       "size": 63052,
       "sha256": "eb99ad868db6542bb2c78a6207250a555fb0cdeaf406d23a400d73fbfeda48f0"
@@ -43,9 +48,39 @@
       "sha256": "17505900a8db28e650be47bcda202e57384f1cef2d74daa7df68cfafe67f11cb"
     },
     {
+      "path": "assets/game/buddy/buddy_hedgehog.png",
+      "size": 252345,
+      "sha256": "0d3437d8d2b24d76f40a50a1e71603c6f9e18db561b2228e73b760b040583b56"
+    },
+    {
       "path": "assets/game/buddy/buddy_kitten.png",
       "size": 205980,
       "sha256": "922552746c6be6489ca609af68255c8605b0436c60fedb370c77712ca1da40ad"
+    },
+    {
+      "path": "assets/game/buddy/buddy_lion.png",
+      "size": 88789,
+      "sha256": "776d155dd508fba984d4ae5aeaa7e8ee7cd98310db0785af242a14fd3fe7672a"
+    },
+    {
+      "path": "assets/game/buddy/buddy_otter.png",
+      "size": 125789,
+      "sha256": "6415319cae3296a57ac2681b934233184c6d13428c7722cc0710483a6110b939"
+    },
+    {
+      "path": "assets/game/buddy/buddy_owl.png",
+      "size": 153301,
+      "sha256": "039e952362c58f6e68a89a3452134f16ddaded9597de4dbb3d26b0cfdd6947b2"
+    },
+    {
+      "path": "assets/game/buddy/buddy_panda.png",
+      "size": 213413,
+      "sha256": "f66acfa903c7789e896c26db6a6b993f25d3df3c4c3019dc237d03b03518ee15"
+    },
+    {
+      "path": "assets/game/buddy/buddy_pig.png",
+      "size": 98697,
+      "sha256": "c2e1362bb9eff469b0b016c4c3aaa66d42ec09fd3a5905ac6048d3ac4bebe90e"
     },
     {
       "path": "assets/game/buddy/buddy_puppy.png",
@@ -63,14 +98,19 @@
       "sha256": "bd0e76db4260ae51266f2441f5f4db364e84f090d1cdbbe3538db8e3267906a1"
     },
     {
+      "path": "assets/game/buddy/buddy_tiger.png",
+      "size": 226342,
+      "sha256": "63f953974a0e91e8e291c4df538db43238003ce24ae3936bcc2d3050911a9b25"
+    },
+    {
       "path": "assets/game/buddy/buddy_wolf_1.png",
       "size": 259536,
       "sha256": "3d15bfe7f24caf4ec650f9acf57824c1f5a9a30139900da18f1b8790c3630c68"
     },
     {
       "path": "assets/game/constants/buddies.json",
-      "size": 2879,
-      "sha256": "38ef4c737b8ccc36871e148f32fdafab20d84c6a07672e7f5b65cd26a842db2e"
+      "size": 2860,
+      "sha256": "015ed6ba1a5a0a873ab17f9c321b56ba0cf0821a36878e8064dccd5e7947e4f8"
     },
     {
       "path": "assets/game/constants/coin-rewards.json",
@@ -94,8 +134,8 @@
     },
     {
       "path": "assets/game/constants/profile-pictures.json",
-      "size": 329,
-      "sha256": "92ce6a1aa1e34fdfb4ff989d6c7985a26ed11f72bb281088dd97d7e1d55e7562"
+      "size": 605,
+      "sha256": "91805cc093846afb90335ec45bb82adefd0263243e01d95a96210c525f2e57fe"
     },
     {
       "path": "assets/game/constants/redeem-codes.json",
@@ -109,8 +149,8 @@
     },
     {
       "path": "assets/game/enemy/enemy_1-1.png",
-      "size": 45886,
-      "sha256": "bdcc6b4e76a2b59e835a88bf4e78cd23b5be82f3855dd92f25804c00cf5e6f27"
+      "size": 42717,
+      "sha256": "a81ac7e410bfcf69c1b6fb1593a7a6b10498fa7b319edd1ecaaaa22a6a7b53f4"
     },
     {
       "path": "assets/game/enemy/enemy_1-2.png",
@@ -124,8 +164,8 @@
     },
     {
       "path": "assets/game/enemy/enemy_2-2.png",
-      "size": 42717,
-      "sha256": "a81ac7e410bfcf69c1b6fb1593a7a6b10498fa7b319edd1ecaaaa22a6a7b53f4"
+      "size": 128417,
+      "sha256": "0fa9cd16b2ab5967f3e5ce150f7bd5fb74f04005f57393bd35548daf3258e72b"
     },
     {
       "path": "assets/game/enemy/enemy_3-1.png",
@@ -136,6 +176,11 @@
       "path": "assets/game/enemy/enemy_3-2.png",
       "size": 40625,
       "sha256": "33b2b426e5352a4c06f60ff91517f809e7cbf1b99b45cf6bc4649923926382ac"
+    },
+    {
+      "path": "assets/game/enemy/enemy_3-3.png",
+      "size": 139754,
+      "sha256": "01febb9c3c6c9aa3eaa24fa19521a0953dd7043eb439fba32f2c247902cad195"
     },
     {
       "path": "assets/game/functions/background_2.png",
@@ -468,19 +513,34 @@
       "sha256": "984533b4f356c4fde0fb0a0277f4c396a49dd45c6abc6ef70931d631423e7029"
     },
     {
+      "path": "assets/game/profile/picture/profile_bear.png",
+      "size": 621373,
+      "sha256": "0ad1c8ef6505d81ea8a323523e0b9fe03dddd7ac99290d4abd05f18470b0982e"
+    },
+    {
       "path": "assets/game/profile/picture/profile_cat.png",
-      "size": 403040,
-      "sha256": "fb9e051a62a3be4cc296c8ff41173c96e8ace67dec443e20c7423a7927ed5f7c"
+      "size": 508189,
+      "sha256": "0fb1454c6d3fc5163965b47a71ab9d71d7e7b206cb8f7c61a29a5f3ea27055cb"
     },
     {
       "path": "assets/game/profile/picture/profile_dog.png",
-      "size": 363962,
-      "sha256": "7c0177cae434599da3341728f1225432053b334435fa4a17f866b93ec85bbb9e"
+      "size": 516326,
+      "sha256": "cd59152a24c964ad62c29e27b0e6165cf5d77988749c1a20fc0775eac5b5e025"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_fox.png",
+      "size": 472920,
+      "sha256": "3eabbd7c32bd4e4b5e396a4b47ea73d5c9a0514fa87d9fd2e6cf5bd2203ca15c"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_owl.png",
+      "size": 589505,
+      "sha256": "ad9c7c525d5afc3437e25d9c4bd872e4504700007eeac90d71da40e852a35360"
     },
     {
       "path": "assets/game/profile/picture/profile_rabbit.png",
-      "size": 455153,
-      "sha256": "9b1ccd6d4881f4fdc4df09fc353066d9458345a9e98ddb6942faf8a890d1face"
+      "size": 573321,
+      "sha256": "8744d8786047551ff644da7acb00088573002095c4b59bbc2e18a034405129ed"
     },
     {
       "path": "assets/game/weapon/fireball_1.png",
