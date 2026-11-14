@@ -129,8 +129,8 @@
     },
     {
       "path": "assets/game/constants/profile-borders.json",
-      "size": 775,
-      "sha256": "d122a5e35d812599cfa5599598e732e55ba07e8ec5d7f199d6dc5c2106bcdbb4"
+      "size": 944,
+      "sha256": "f1c0945d7ef986f06691f0a3713f85c3e00b9f347f5453d7895843d4d1d04928"
     },
     {
       "path": "assets/game/constants/profile-pictures.json",

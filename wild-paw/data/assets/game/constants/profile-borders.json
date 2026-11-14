@@ -11,32 +11,38 @@
     {
       "id": "border_1",
       "name": "Wild Paw Frame",
-      "image": "border_1.png"
+      "image": "border_1.png",
+      "rarity": "legendary"
     },
     {
       "id": "border_2",
       "name": "Border 2",
-      "image": "border_2.png"
+      "image": "border_2.png",
+      "rarity": "legendary"
     },
     {
       "id": "border_3",
       "name": "Border 3",
-      "image": "border_3.png"
+      "image": "border_3.png",
+      "rarity": "legendary"
     },
     {
       "id": "border_4",
       "name": "Border 4",
-      "image": "border_4.png"
+      "image": "border_4.png",
+      "rarity": "rare"
     },
     {
       "id": "border_5",
       "name": "Border 5",
-      "image": "border_5.png"
+      "image": "border_5.png",
+      "rarity": "uncommon"
     },
     {
       "id": "border_6",
       "name": "Border 6",
-      "image": "border_6.png"
+      "image": "border_6.png",
+      "rarity": "rare"
     }
   ]
 }
