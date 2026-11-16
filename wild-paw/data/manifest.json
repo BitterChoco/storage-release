@@ -139,8 +139,8 @@
     },
     {
       "path": "assets/game/constants/redeem-codes.json",
-      "size": 732,
-      "sha256": "80fc4f9909004179b02d8f4f801602cd2d661b703d4f7fc0f20aad1fa66ff8bf"
+      "size": 901,
+      "sha256": "e25697877c61345d687c8d82ecabcd5637df76b919f84ce5eaa4c05e114cb20c"
     },
     {
       "path": "assets/game/constants/store-pricing.json",

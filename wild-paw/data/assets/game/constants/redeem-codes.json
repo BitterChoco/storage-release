@@ -2,6 +2,7 @@
   "items": [
     {
       "code": "WILDPAW202601",
+      "message": "Welcome gift for 2026!",
       "rewards": [
         {"id":"coin", "amount": 10000},
         {"id":"exp", "amount": 10000}
@@ -10,6 +11,7 @@
     },
     {
       "code": "WILDPAW202602",
+      "message": "Second welcome gift for 2026!",
       "rewards": [
         {"id":"coin", "amount": 10000},
         {"id":"exp", "amount": 10000}
@@ -18,6 +20,7 @@
     },
     {
       "code": "WILDPAWLEVELUP",
+      "message": "Level up reward!",
       "rewards": [
         {"id":"exp", "amount": 50000}
       ],
@@ -25,6 +28,7 @@
     },
     {
       "code": "WILDPAWRICHES",
+      "message": "Riches reward!",
       "rewards": [
         {"id":"coin", "amount": 50000}
       ],
