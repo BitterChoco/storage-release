@@ -148,9 +148,14 @@
       "sha256": "3c463f6acbf03ddf89faf78e1d1b0bfb0b24801cf7d7bbd55e91cc1442370a75"
     },
     {
+      "path": "assets/game/constants/watch-ads-rewards.json",
+      "size": 489,
+      "sha256": "89e9945a350026d85ee47e525cad6cf964ec96fbe91f70c11daad15b96e6909f"
+    },
+    {
       "path": "assets/game/constants/weekly-login-rewards.json",
       "size": 563,
-      "sha256": "af330abd900273f1227f6f92e25fc5b62fdf8480e8d61ad12b0d2dc7fd660985"
+      "sha256": "95a593e3b61924f38d4222368ca501d9d00d7ed20fff5c66188e1a860deb8e52"
     },
     {
       "path": "assets/game/enemy/enemy_1-1.png",

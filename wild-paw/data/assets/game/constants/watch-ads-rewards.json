@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "slot": 1, "rewards": [{ "id": "coin", "amount": 500 }] },
+    { "slot": 2, "rewards": [{ "id": "coin", "amount": 600 }] },
+    { "slot": 3, "rewards": [{ "id": "coin", "amount": 700 }] },
+    { "slot": 4, "rewards": [{ "id": "coin", "amount": 800 }] },
+    { "slot": 5, "rewards": [{ "id": "coin", "amount": 1000 }] },
+    { "slot": 6, "rewards": [{ "id": "diamond", "amount": 1 }] },
+    { "slot": 7, "rewards": [{ "id": "diamond", "amount": 2 }] }
+  ]
+}
