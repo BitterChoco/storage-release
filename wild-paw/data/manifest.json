@@ -148,6 +148,11 @@
       "sha256": "2eee80729c603ce712823db09acaf5aaef74a73d0665e7a0321d006049d0378d"
     },
     {
+      "path": "assets/game/constants/weekly-login-rewards.json",
+      "size": 557,
+      "sha256": "78455c0ad1d4c749dc5ba8af75c0144050f79d254da03ee878a41bdb7fe81ff2"
+    },
+    {
       "path": "assets/game/enemy/enemy_1-1.png",
       "size": 42717,
       "sha256": "a81ac7e410bfcf69c1b6fb1593a7a6b10498fa7b319edd1ecaaaa22a6a7b53f4"
