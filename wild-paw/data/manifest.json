@@ -423,6 +423,11 @@
       "sha256": "fd348ffa8a72b2c84bbe0dbb37537b217afd299770497cb8f96f3011b199b1ab"
     },
     {
+      "path": "assets/game/icons/xp_1.png",
+      "size": 43415,
+      "sha256": "f2b4e610e75421e8e44b8b5651950d6aa1888b24b7ccf4765030d7c1b9b0acdd"
+    },
+    {
       "path": "assets/game/music/battle_1.mp3",
       "size": 4107702,
       "sha256": "d433792d3cea35e077464b7b9c85fa70b6ae68844e8b08ba051f5938465b6243"
