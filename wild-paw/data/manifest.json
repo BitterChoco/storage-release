@@ -274,18 +274,18 @@
     },
     {
       "path": "assets/game/heroes/skin/cat_bloom.png",
-      "size": 623666,
-      "sha256": "597624b57b8828f9e478f7bb6ec52d4ad56c641ca2955da0f2bbeea98b09bbaa"
+      "size": 582523,
+      "sha256": "9ac7a7cda43b7897ad8988184e282a2d2f24ab193f68c922f07b58eec349a4fd"
     },
     {
       "path": "assets/game/heroes/skin/cat_ember.png",
-      "size": 644785,
-      "sha256": "e6d2ff4ceb1f70625da8a4cc9d3df2ae9d6ef3a5040fa83f8c484fdd991fcd40"
+      "size": 601629,
+      "sha256": "009ecb104897a9015a155ed8fe17e6ca323f7df7314f1c21bff373e15dcb2a64"
     },
     {
       "path": "assets/game/heroes/skin/cat_midnight.png",
-      "size": 594004,
-      "sha256": "1e12004ea4df3e36c7910166f78e428ebe79528b67abe81fb234dde06b1a902a"
+      "size": 556080,
+      "sha256": "ccdf0fef877b79f8102ad11cfd2ff27db0f7c5ae0080d42ecb5a789fb7ec6ce0"
     },
     {
       "path": "assets/game/heroes/type/bear.png",
