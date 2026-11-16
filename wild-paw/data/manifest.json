@@ -120,7 +120,7 @@
     {
       "path": "assets/game/constants/drop-config.json",
       "size": 1469,
-      "sha256": "81991de08825ebee208f66d1904f1d03b07b3b9fb1e2689f1185ee5570f55156"
+      "sha256": "fe259ccc31ff6d25a3639a84692803ee9d1c7e18b107936d391159123d08caaa"
     },
     {
       "path": "assets/game/constants/heroes.json",
