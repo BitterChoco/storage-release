@@ -4,8 +4,8 @@
     { "day": 2, "rewards": [{ "id": "coin", "amount": 200 }] },
     { "day": 3, "rewards": [{ "id": "coin", "amount": 500 }] },
     { "day": 4, "rewards": [{ "id": "coin", "amount": 1000 }] },
-    { "day": 5, "rewards": [{ "id": "coin", "amount": 1 }] },
-    { "day": 6, "rewards": [{ "id": "coin", "amount": 2 }] },
+    { "day": 5, "rewards": [{ "id": "diamond", "amount": 1 }] },
+    { "day": 6, "rewards": [{ "id": "diamond", "amount": 2 }] },
     {
       "day": 7,
       "rewards": [
