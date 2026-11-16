@@ -583,6 +583,11 @@
       "sha256": "e07d3274a2df465875336e427efdaf143c37017b39208c5f5b017c77d0f9bad4"
     },
     {
+      "path": "assets/game/sound/enemy_laugh_boss_1.mp3",
+      "size": 65280,
+      "sha256": "cea4d7cb9398f7dbe36d722a65e833ab23f3e71f52d967935e22a732505e59d8"
+    },
+    {
       "path": "assets/game/sound/explosion_1.mp3",
       "size": 92928,
       "sha256": "d73e6472214dc24f2d7a5c93a018a1610a5cc7650a50a3a0cf8b5533527cc8b1"
@@ -629,8 +634,18 @@
     },
     {
       "path": "assets/game/weapon/weapon_1-2.png",
-      "size": 133737,
-      "sha256": "81e0e723fa89f1052f7d0535661efe6ea193cb96ac9439a2a84b713dc3d758c9"
+      "size": 211447,
+      "sha256": "62e9890ec3781b09daac2e8dc2b500b274994dc4361886ea02fca2a8787feac3"
+    },
+    {
+      "path": "assets/game/weapon/weapon_1-3.png",
+      "size": 355183,
+      "sha256": "22054bdde7198af2c3c517d5dd6c83da4e97fc39a6d189d637f0369a67cb9dc8"
+    },
+    {
+      "path": "assets/game/weapon/weapon_1-4.png",
+      "size": 250190,
+      "sha256": "9f4984b2263aeed71dcfd40e88d28b9d39f0a7c05b6fed42e0cd5d9c2a4f105e"
     }
   ]
 }
