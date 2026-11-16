@@ -144,8 +144,8 @@
     },
     {
       "path": "assets/game/constants/store-pricing.json",
-      "size": 2869,
-      "sha256": "2eee80729c603ce712823db09acaf5aaef74a73d0665e7a0321d006049d0378d"
+      "size": 3774,
+      "sha256": "3c463f6acbf03ddf89faf78e1d1b0bfb0b24801cf7d7bbd55e91cc1442370a75"
     },
     {
       "path": "assets/game/constants/weekly-login-rewards.json",

@@ -1,72 +1,72 @@
 {
   "profileBorders": {
-    "border_1": { "price": 10000, "discountPercent": 0 },
-    "border_2": { "price": 10000, "discountPercent": 0 },
-    "border_3": { "price": 10000, "discountPercent": 0 },
-    "border_4": { "price": 5000, "discountPercent": 0 },
-    "border_5": { "price": 2000, "discountPercent": 0 },
-    "border_6": { "price": 3000, "discountPercent": 0 }
+    "border_1": { "currency": "coin", "price": 10000, "discountPercent": 0 },
+    "border_2": { "currency": "coin", "price": 10000, "discountPercent": 0 },
+    "border_3": { "currency": "coin", "price": 10000, "discountPercent": 0 },
+    "border_4": { "currency": "coin", "price": 5000, "discountPercent": 0 },
+    "border_5": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+    "border_6": { "currency": "coin", "price": 3000, "discountPercent": 0 }
   },
   "defaults": {
-    "hero": { "price": 1000, "discountPercent": 0 },
-    "skin": { "price": 1000, "discountPercent": 0 },
-    "orb": { "price": 1000, "discountPercent": 0 },
-    "buddy": { "price": 1000, "discountPercent": 0 }
+    "hero": { "currency": "coin", "price": 1000, "discountPercent": 0 },
+    "skin": { "currency": "coin", "price": 1000, "discountPercent": 0 },
+    "orb": { "currency": "coin", "price": 1000, "discountPercent": 0 },
+    "buddy": { "currency": "coin", "price": 1000, "discountPercent": 0 }
   },
   "heroes": {
-    "cat": { "price": 5000, "discountPercent": 10 },
-    "dog": { "price": 0, "discountPercent": 0 },
-    "rabbit": { "price": 2000, "discountPercent": 0 },
-    "bear": { "price": 8000, "discountPercent": 15 },
-    "owl": { "price": 7000, "discountPercent": 10 },
-    "fox": { "price": 5000, "discountPercent": 0 }
+    "cat": { "currency": "coin", "price": 5000, "discountPercent": 10 },
+    "dog": { "currency": "coin", "price": 0, "discountPercent": 0 },
+    "rabbit": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+    "bear": { "currency": "coin", "price": 8000, "discountPercent": 15 },
+    "owl": { "currency": "coin", "price": 7000, "discountPercent": 10 },
+    "fox": { "currency": "coin", "price": 5000, "discountPercent": 0 }
   },
   "orbs": {
-    "orb_2": { "price": 2000, "discountPercent": 0 },
-    "orb_3": { "price": 2000, "discountPercent": 0 },
-    "orb_4": { "price": 2000, "discountPercent": 0 },
-    "orb_5": { "price": 5000, "discountPercent": 0 },
-    "orb_6": { "price": 10000, "discountPercent": 10 }
+    "orb_2": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+    "orb_3": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+    "orb_4": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+    "orb_5": { "currency": "coin", "price": 5000, "discountPercent": 0 },
+    "orb_6": { "currency": "coin", "price": 10000, "discountPercent": 10 }
   },
   "buddies": {
-    "common": { "price": 1000, "discountPercent": 0 },
-    "uncommon": { "price": 2000, "discountPercent": 0 },
-    "rare": { "price": 5000, "discountPercent": 0 },
-    "epic": { "price": 8000, "discountPercent": 0 },
-    "legendary": { "price": 10000, "discountPercent": 0 },
-    "mythic": { "price": 15000, "discountPercent": 0 }
+    "common": { "currency":"coin", "price": 1000, "discountPercent": 0 },
+    "uncommon": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+    "rare": { "currency": "coin", "price": 5000, "discountPercent": 0 },
+    "epic": { "currency": "coin", "price": 8000, "discountPercent": 0 },
+    "legendary": { "currency": "coin", "price": 10000, "discountPercent": 0 },
+    "mythic": { "currency": "coin", "price": 15000, "discountPercent": 0 }
   },
   "buddyItems": {},
   "skins": {
     "cat": {
-      "bloom": { "price": 2000, "discountPercent": 0 },
-      "midnight": { "price": 3000, "discountPercent": 15 },
-      "ember": { "price": 2000, "discountPercent": 0 }
+      "bloom": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+      "midnight": { "currency": "coin", "price": 3000, "discountPercent": 15 },
+      "ember": { "currency": "coin", "price": 2000, "discountPercent": 0 }
     },
     "dog": {
-      "meadow": { "price": 2000, "discountPercent": 0 },
-      "dusk": { "price": 2000, "discountPercent": 10 },
-      "rosewood": { "price": 2000, "discountPercent": 0 }
+      "meadow": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+      "dusk": { "currency": "coin", "price": 2000, "discountPercent": 10 },
+      "rosewood": { "currency": "coin", "price": 2000, "discountPercent": 0 }
     },
     "rabbit": {
-      "blossom": { "price": 2000, "discountPercent": 0 },
-      "frost": { "price": 2000, "discountPercent": 10 },
-      "starlight": { "price": 2000, "discountPercent": 0 }
+      "blossom": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+      "frost": { "currency": "coin", "price": 2000, "discountPercent": 10 },
+      "starlight": { "currency": "diamond", "price": 2000, "discountPercent": 0 }
     },
     "bear": {
-      "honeycoat": { "price": 2000, "discountPercent": 0 },
-      "pineguard": { "price": 2000, "discountPercent": 15 },
-      "glacier": { "price": 2000, "discountPercent": 0 }
+      "honeycoat": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+      "pineguard": { "currency": "coin", "price": 2000, "discountPercent": 15 },
+      "glacier": { "currency": "coin", "price": 2000, "discountPercent": 0 }
     },
     "owl": {
-      "moonfeather": { "price": 2000, "discountPercent": 0 },
-      "sunfeather": { "price": 2000, "discountPercent": 10 },
-      "shadowwing": { "price": 2000, "discountPercent": 0 }
+      "moonfeather": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+      "sunfeather": { "currency": "coin", "price": 2000, "discountPercent": 10 },
+      "shadowwing": { "currency": "coin", "price": 2000, "discountPercent": 0 }
     },
     "fox": {
-      "embercoat": { "price": 2000, "discountPercent": 0 },
-      "moonfox": { "price": 2000, "discountPercent": 0 },
-      "shadowtail": { "price": 2000, "discountPercent": 0 }
+      "embercoat": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+      "moonfox": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+      "shadowtail": { "currency": "diamond", "price": 2000, "discountPercent": 0 }
     }
   }
 }
