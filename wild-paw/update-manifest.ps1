@@ -17,6 +17,7 @@ if (-not (Test-Path -LiteralPath $DataDirectory -PathType Container)) {
 
 $DataDirectory = (Resolve-Path -LiteralPath $DataDirectory).Path
 $manifestPath = Join-Path $DataDirectory 'manifest.json'
+$appManifestPath = Join-Path $DataDirectory 'app_manifest.json'
 $schemaVersion = 1
 $version = '1.0.0'
 
@@ -31,7 +32,7 @@ if (Test-Path -LiteralPath $manifestPath -PathType Leaf) {
 }
 
 $files = Get-ChildItem -LiteralPath $DataDirectory -File -Recurse -Force |
-    Where-Object { $_.FullName -ne $manifestPath } |
+    Where-Object { $_.FullName -ne $manifestPath -and $_.FullName -ne $appManifestPath } |
     ForEach-Object {
         $relativePath = $_.FullName.Substring($DataDirectory.Length).TrimStart('\', '/') -replace '\\', '/'
         $hash = (Get-FileHash -LiteralPath $_.FullName -Algorithm SHA256).Hash.ToLowerInvariant()
