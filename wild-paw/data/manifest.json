@@ -3,11 +3,6 @@
   "version": "1.1.1",
   "files": [
     {
-      "path": "app_manifest.json",
-      "size": 123,
-      "sha256": "5cd4a721276f292af673d3f7b016051d301a021d264e1fa6edd243926fbf723d"
-    },
-    {
       "path": "assets/game/arena/arena_1.png",
       "size": 2698753,
       "sha256": "46eba835ffc700dde142067ea68e3c8820c7a15c6d5c8aa4d45bee3b1854ba99"
