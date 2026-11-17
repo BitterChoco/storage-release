@@ -3,6 +3,11 @@
   "version": "1.1.1",
   "files": [
     {
+      "path": "app_manifest.json",
+      "size": 123,
+      "sha256": "5cd4a721276f292af673d3f7b016051d301a021d264e1fa6edd243926fbf723d"
+    },
+    {
       "path": "assets/game/arena/arena_1.png",
       "size": 2698753,
       "sha256": "46eba835ffc700dde142067ea68e3c8820c7a15c6d5c8aa4d45bee3b1854ba99"
@@ -134,8 +139,8 @@
     },
     {
       "path": "assets/game/constants/profile-pictures.json",
-      "size": 605,
-      "sha256": "91805cc093846afb90335ec45bb82adefd0263243e01d95a96210c525f2e57fe"
+      "size": 2298,
+      "sha256": "012c90189754d477363f4050eb8a298d771ef9e3e180462167739c72ac334ea6"
     },
     {
       "path": "assets/game/constants/redeem-codes.json",
@@ -144,8 +149,8 @@
     },
     {
       "path": "assets/game/constants/store-pricing.json",
-      "size": 3774,
-      "sha256": "3c463f6acbf03ddf89faf78e1d1b0bfb0b24801cf7d7bbd55e91cc1442370a75"
+      "size": 4778,
+      "sha256": "a5f277b7db00f81cb1e6fc0c5f29249bbe251f26312412393f724e0f615dfdd0"
     },
     {
       "path": "assets/game/constants/watch-ads-rewards.json",
@@ -701,6 +706,66 @@
       "path": "assets/game/profile/border/border_6.png",
       "size": 103530,
       "sha256": "984533b4f356c4fde0fb0a0277f4c396a49dd45c6abc6ef70931d631423e7029"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_1.png",
+      "size": 161884,
+      "sha256": "c8c16a1683dc979fa34781c7d508975ed759bbd991397906c7dcc231ba952c55"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_10.png",
+      "size": 194560,
+      "sha256": "922a637da1b74f6dd3a27b135cbae3416b0c9b05f223a76c49d74c220f60eea3"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_11.png",
+      "size": 182202,
+      "sha256": "c1ec26fe576203b0b6c98ecb60fd1c24e7328c5f24ec7fc560387484470d6bf8"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_12.png",
+      "size": 180582,
+      "sha256": "488d7e08e1bc85dda9b4252947d05b37f349136b53a8eb7cabcf36dabd055ad1"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_2.png",
+      "size": 171800,
+      "sha256": "6d8bee15f66df357dcc75b52a14411ebc0c87d994aca8081d22c23b763673043"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_3.png",
+      "size": 185262,
+      "sha256": "e502716d966c34032ea1ff467542d76bb6ef3e67340a178a644ea8c0d7824a9b"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_4.png",
+      "size": 172117,
+      "sha256": "207a11877f5365bdf8f767684e881540963c55e10cc2bf115c33eb363b658f93"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_5.png",
+      "size": 186483,
+      "sha256": "b3a8573dfa6254a5db667efd0a501f360adb2b8cd02e6c697595b21ab185023a"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_6.png",
+      "size": 183911,
+      "sha256": "db9c53f155cb376a9247a21bacd4d2f6640dcca1b5c06f9d755603dc51db45bd"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_7.png",
+      "size": 202222,
+      "sha256": "ba6033d41e24eda092cfd4ab16233cc35be5f04ee799ee2145df39e12ee8d50f"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_8.png",
+      "size": 169233,
+      "sha256": "7eb99cdf6168ea804f975a4e8e9bd92856b32f20be4867924e51c7095a49e260"
+    },
+    {
+      "path": "assets/game/profile/picture/profile_9.png",
+      "size": 173621,
+      "sha256": "eef91298cf461ac20680e228ed3c2c06bc55025a9aefb149625636517da24406"
     },
     {
       "path": "assets/game/profile/picture/profile_bear.png",

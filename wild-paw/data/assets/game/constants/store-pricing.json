@@ -1,4 +1,18 @@
 {
+  "profilePictures": {
+    "profile_1": { "currency": "coin", "price": 10000, "discountPercent": 0 },
+    "profile_2": { "currency": "coin", "price": 10000, "discountPercent": 0 },
+    "profile_3": { "currency": "coin", "price": 10000, "discountPercent": 0 },
+    "profile_4": { "currency": "coin", "price": 5000, "discountPercent": 0 },
+    "profile_5": { "currency": "coin", "price": 2000, "discountPercent": 0 },
+    "profile_6": { "currency": "diamond", "price": 3000, "discountPercent": 0 },
+    "profile_7": { "currency": "diamond", "price": 3000, "discountPercent": 0 },
+    "profile_8": { "currency": "diamond", "price": 3000, "discountPercent": 0 },
+    "profile_9": { "currency": "diamond", "price": 3000, "discountPercent": 0 },
+    "profile_10": { "currency": "diamond", "price": 3000, "discountPercent": 0 },
+    "profile_11": { "currency": "diamond", "price": 3000, "discountPercent": 0 },
+    "profile_12": { "currency": "diamond", "price": 3000, "discountPercent": 0 }
+  },
   "profileBorders": {
     "border_1": { "currency": "coin", "price": 10000, "discountPercent": 0 },
     "border_2": { "currency": "coin", "price": 10000, "discountPercent": 0 },
