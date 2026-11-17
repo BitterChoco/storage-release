@@ -17,3 +17,8 @@ Use [`update-manifest.ps1`](update-manifest.ps1) after adding, removing, or chan
 The script uses its own location to find `data/`, so it works from either directory. To preview the target without writing the manifest, add `-WhatIf` to either command. To scan a different data directory, pass `-DataDirectory <path>`; relative paths are resolved from the current PowerShell directory.
 
 PowerShell's built-in file and JSON commands are used; no additional packages are required.
+
+### Assets
+
+1. Icons
+   - Resize to 186 pixels vertical

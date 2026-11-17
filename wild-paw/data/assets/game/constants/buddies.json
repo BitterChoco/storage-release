@@ -4,7 +4,7 @@
       "id": "bunny",
       "name": "Bunny",
       "rarity": "common",
-      "image": "buddy_bunny_1.png",
+      "image": "buddy_rabbit_1.png",
       "bonuses": { "moveSpeed": 5 }
     },
     {
@@ -25,91 +25,91 @@
       "id": "kitten",
       "name": "Kitten",
       "rarity": "uncommon",
-      "image": "buddy_kitten.png",
+      "image": "buddy_cat_1.png",
       "bonuses": { "criticalChance": 5, "attackSpeed": 5 }
     },
     {
       "id": "puppy",
       "name": "Puppy",
       "rarity": "common",
-      "image": "buddy_puppy.png",
+      "image": "buddy_dog_1.png",
       "bonuses": { "moveSpeed": 2, "attack": 3 }
     },
     {
       "id": "fox-kit",
       "name": "Fox Kit",
       "rarity": "rare",
-      "image": "buddy_fox.png",
+      "image": "buddy_fox_1.png",
       "bonuses": { "criticalChance": 5, "attackSpeed": 5 }
     },
     {
       "id": "raccoon",
       "name": "Raccoon",
       "rarity": "uncommon",
-      "image": "buddy_racoon.png",
+      "image": "buddy_racoon_1.png",
       "bonuses": { "coinGain": 10 }
     },
     {
       "id": "squirrel",
       "name": "Squirrel",
       "rarity": "common",
-      "image": "buddy_squirrel.png",
+      "image": "buddy_squirrel_1.png",
       "bonuses": { "xpGain": 10 }
     },
     {
       "id": "hedgehog",
       "name": "Hedgehog",
       "rarity": "uncommon",
-      "image": "buddy_hedgehog.png",
+      "image": "buddy_hedgehog_1.png",
       "bonuses": { "healingReceived": 15 }
     },
     {
       "id": "otter-pup",
       "name": "Otter Pup",
       "rarity": "common",
-      "image": "buddy_otter.png",
+      "image": "buddy_otter_1.png",
       "bonuses": { "moveSpeed": 5 }
     },
     {
       "id": "baby-tiger",
       "name": "Baby Tiger",
       "rarity": "legendary",
-      "image": "buddy_tiger.png",
+      "image": "buddy_tiger_1.png",
       "bonuses": { "attack": 8, "maxHealth": 5 }
     },
     {
       "id": "baby-lion",
       "name": "Baby Lion",
       "rarity": "epic",
-      "image": "buddy_lion.png",
+      "image": "buddy_lion_1.png",
       "bonuses": { "attack": 5, "maxHealth": 5 }
     },
     {
       "id": "owl-chick",
       "name": "Owl Chick",
       "rarity": "epic",
-      "image": "buddy_owl.png",
+      "image": "buddy_owl_1.png",
       "bonuses": { "dashCooldownReduction": 5, "dodgeChance": 5 }
     },
     {
       "id": "deer-fawn",
       "name": "Deer Fawn",
       "rarity": "rare",
-      "image": "buddy_deer.png",
+      "image": "buddy_deer_1.png",
       "bonuses": { "dodgeChance": 5, "moveSpeed": 5 }
     },
     {
       "id": "panda-cub",
       "name": "Panda Cub",
       "rarity": "legendary",
-      "image": "buddy_panda.png",
+      "image": "buddy_panda_1.png",
       "bonuses": { "defense": 5, "maxHealth": 5 }
     },
     {
       "id": "piglet",
       "name": "Piglet",
       "rarity": "uncommon",
-      "image": "buddy_pig.png",
+      "image": "buddy_pig_1.png",
       "bonuses": { "healingReceived": 15 }
     }
   ]
