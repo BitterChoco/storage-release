@@ -204,53 +204,53 @@
     },
     {
       "path": "assets/game/functions/card/hero_card_common.png",
-      "size": 5507,
-      "sha256": "4e9b029a6c904c806684b018f189bfb4b11d7d899df53340f6b1552e210be4b0"
+      "size": 199483,
+      "sha256": "4e2126d593227680f37c85756304b6bd44f43e36570e3a800221f4d74e0ebf3c"
     },
     {
       "path": "assets/game/functions/card/hero_card_epic.png",
-      "size": 5523,
-      "sha256": "4720bb6b0f4b6644bffb93f595551f97f4ed5d69702ebdcf29c33c6ef725b676"
+      "size": 202177,
+      "sha256": "7d744dc32cd425001b24f72d81af92e05391c0466387cb953b720a1d4034bfa4"
     },
     {
       "path": "assets/game/functions/card/hero_card_legendary.png",
-      "size": 5520,
-      "sha256": "b64b9ad70297269492bd4212dc4391ef5bd0e6a6bcf6a433b88d28eec2184e6e"
+      "size": 212631,
+      "sha256": "ae6c4ae0cd10e1f61d74546339dd70d488149d7416edd2843f09f7b7c143b234"
     },
     {
       "path": "assets/game/functions/card/hero_card_mythic.png",
-      "size": 5525,
-      "sha256": "0ad94a708c3cf1944dabb6657a23ff61e4a4d29fe63841c318e96e29bea1294f"
+      "size": 214915,
+      "sha256": "8d1de45b08e976a5f87f96a22269d3ccbd245a375a2f2c5a74d7527075630964"
     },
     {
       "path": "assets/game/functions/card/hero_card_rare.png",
-      "size": 5524,
-      "sha256": "9f70833d82a8424f1c675bd5d6bea629155fdd8aeba8ee29d8a10b784fb16254"
+      "size": 203764,
+      "sha256": "e9376ca1414ff3656160557967168e876d5e92dfd864dcd306bd351d2ecf5502"
     },
     {
       "path": "assets/game/functions/card/hero_card_uncommon.png",
-      "size": 5523,
-      "sha256": "05e2d0ec0e3349e5cdba554681997d25c540c55664569ee22eb576f0d62b39b5"
+      "size": 209555,
+      "sha256": "0e9a5f8c22f11c5b29f3f70e98aa7af43ecae28a30088416f5f84c9981d5da7b"
     },
     {
       "path": "assets/game/functions/expand_1.png",
-      "size": 17038,
-      "sha256": "4f5a7a955dc164c4d82b0dd1deddfd51dd5cb309f271110f9366d802bdb06126"
+      "size": 65368,
+      "sha256": "817bec8d248939efac34cb7fe127af2200459f5cd8104ff201de3db614380aa4"
     },
     {
       "path": "assets/game/functions/hero_1.png",
-      "size": 23225,
-      "sha256": "c8ffd27fd4167f09609306a56420eabc637e016a97b5b99ea8b8b0de51032150"
+      "size": 93503,
+      "sha256": "1ebe62466fd1ac3d1a52eff512a8593dfb3979e99870a003e713878ad8426352"
     },
     {
       "path": "assets/game/functions/minimize_1.png",
-      "size": 22277,
-      "sha256": "d89dc017916d52f3c2e9c6efaace5e20f651925db57c8d469a65ea0aeae848b9"
+      "size": 94897,
+      "sha256": "340b55dfa28f6fb1637e2c97108a7a29e42bb7b5e97dda815602ababd3870365"
     },
     {
       "path": "assets/game/functions/skin_1.png",
-      "size": 107794,
-      "sha256": "61b811a46669c57db336d508774fbf5823f7a8f8bcba9d79ded6c61d2b7d1bd3"
+      "size": 100219,
+      "sha256": "fa62ec765c2ec8c0602de3220ff05f92473a0d587c439bc8aa5fe58afdebb3f8"
     },
     {
       "path": "assets/game/functions/title_1.png",
