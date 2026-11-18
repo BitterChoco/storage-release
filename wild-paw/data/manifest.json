@@ -859,8 +859,8 @@
     },
     {
       "path": "assets/game/sprite/sprite_enemy_1-2.png",
-      "size": 95304,
-      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+      "size": 53627,
+      "sha256": "daf2906e3ce73ae5fe76cb52039b4cfa7c3a042cd00bd007bf05a33f5690a492"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_2-1.png",
