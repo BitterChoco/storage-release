@@ -159,38 +159,38 @@
     },
     {
       "path": "assets/game/enemy/enemy_1-1.png",
-      "size": 42717,
-      "sha256": "a81ac7e410bfcf69c1b6fb1593a7a6b10498fa7b319edd1ecaaaa22a6a7b53f4"
+      "size": 7497,
+      "sha256": "0699012e9a197b4b38f3f3ce64e0ccfda16a41191363cc6190fd4500c7f3faf7"
     },
     {
       "path": "assets/game/enemy/enemy_1-2.png",
-      "size": 41347,
-      "sha256": "322f77e3dcb74edd447a2201e80a5d8f59dbdcee998dc617c534d49d2404a09c"
+      "size": 6023,
+      "sha256": "ad617b20a231c7ca154a6026ca8738588923d9d9ad9443ccb319941be7407c4b"
     },
     {
       "path": "assets/game/enemy/enemy_2-1.png",
-      "size": 41449,
-      "sha256": "0f166643ef511c9aaf920f451a473c4d89af7704541056d0f11537ab5a900ff9"
+      "size": 7497,
+      "sha256": "0699012e9a197b4b38f3f3ce64e0ccfda16a41191363cc6190fd4500c7f3faf7"
     },
     {
       "path": "assets/game/enemy/enemy_2-2.png",
-      "size": 128417,
-      "sha256": "0fa9cd16b2ab5967f3e5ce150f7bd5fb74f04005f57393bd35548daf3258e72b"
+      "size": 6023,
+      "sha256": "ad617b20a231c7ca154a6026ca8738588923d9d9ad9443ccb319941be7407c4b"
     },
     {
       "path": "assets/game/enemy/enemy_3-1.png",
-      "size": 49977,
-      "sha256": "e7aa43f847520039ec0382275d43c7a5ba88822408c067e169eb7b0212a122b5"
+      "size": 7497,
+      "sha256": "0699012e9a197b4b38f3f3ce64e0ccfda16a41191363cc6190fd4500c7f3faf7"
     },
     {
       "path": "assets/game/enemy/enemy_3-2.png",
-      "size": 40625,
-      "sha256": "33b2b426e5352a4c06f60ff91517f809e7cbf1b99b45cf6bc4649923926382ac"
+      "size": 6023,
+      "sha256": "ad617b20a231c7ca154a6026ca8738588923d9d9ad9443ccb319941be7407c4b"
     },
     {
       "path": "assets/game/enemy/enemy_3-3.png",
-      "size": 139754,
-      "sha256": "01febb9c3c6c9aa3eaa24fa19521a0953dd7043eb439fba32f2c247902cad195"
+      "size": 7497,
+      "sha256": "0699012e9a197b4b38f3f3ce64e0ccfda16a41191363cc6190fd4500c7f3faf7"
     },
     {
       "path": "assets/game/functions/background_2.png",
@@ -854,38 +854,38 @@
     },
     {
       "path": "assets/game/sprite/sprite_enemy_1-1.png",
-      "size": 90581,
-      "sha256": "5f15792ba72e662c21f575e68ac0ec37e873a924c44bbc93898831f329291e41"
+      "size": 86624,
+      "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_1-2.png",
-      "size": 53922,
-      "sha256": "584851656be77c65a32b81ef04078c499cc5fd87203aee4fefec95df5ff4987f"
+      "size": 41674,
+      "sha256": "074d2d013d78b56780400a37d56756d699bc8b7620073179e7464e4f1a4080ed"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_2-1.png",
-      "size": 95304,
-      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+      "size": 86624,
+      "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_2-2.png",
-      "size": 53922,
-      "sha256": "584851656be77c65a32b81ef04078c499cc5fd87203aee4fefec95df5ff4987f"
+      "size": 41674,
+      "sha256": "074d2d013d78b56780400a37d56756d699bc8b7620073179e7464e4f1a4080ed"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_3-1.png",
-      "size": 95304,
-      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+      "size": 86624,
+      "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_3-2.png",
-      "size": 95304,
-      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+      "size": 41674,
+      "sha256": "074d2d013d78b56780400a37d56756d699bc8b7620073179e7464e4f1a4080ed"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_3-3.png",
-      "size": 95304,
-      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+      "size": 86624,
+      "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
     },
     {
       "path": "assets/game/weapon/fireball_1.png",
