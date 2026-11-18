@@ -853,6 +853,41 @@
       "sha256": "792802af81f6421ec60098b7b5b650a8083e8828a0e1459a710d73c3b452760c"
     },
     {
+      "path": "assets/game/sprite/sprite_enemy_1-1.png",
+      "size": 95304,
+      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_1-2.png",
+      "size": 95304,
+      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_2-1.png",
+      "size": 95304,
+      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_2-2.png",
+      "size": 95304,
+      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_3-1.png",
+      "size": 95304,
+      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_3-2.png",
+      "size": 95304,
+      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_3-3.png",
+      "size": 95304,
+      "sha256": "7c389096f620d4934af597491fe7c8d10db7f0bd36c2c3792df42764de845cab"
+    },
+    {
       "path": "assets/game/weapon/fireball_1.png",
       "size": 145010,
       "sha256": "1f4ce3c63f3992aa4dd5449eacecbb8f86ff9e887255cf3911752d4de7265fb5"
