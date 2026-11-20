@@ -859,38 +859,53 @@
     },
     {
       "path": "assets/game/sprite/sprite_enemy_1-1.png",
+      "size": 90533,
+      "sha256": "6e9aea577c5238e5b65dc5733e9bbe10aa42f8d21c59e83911389770b23d59f0"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_1-1-1.png",
       "size": 86624,
       "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
     },
     {
-      "path": "assets/game/sprite/sprite_enemy_1-2.png",
+      "path": "assets/game/sprite/sprite_enemy_1-1-2.png",
       "size": 90584,
       "sha256": "9edae018f4c91ffbb6f5942dc9027b6698dfa9c8cc78219057fb2af745fbffbb"
     },
     {
+      "path": "assets/game/sprite/sprite_enemy_1-1-3.png",
+      "size": 41674,
+      "sha256": "074d2d013d78b56780400a37d56756d699bc8b7620073179e7464e4f1a4080ed"
+    },
+    {
+      "path": "assets/game/sprite/sprite_enemy_1-2.png",
+      "size": 90533,
+      "sha256": "6e9aea577c5238e5b65dc5733e9bbe10aa42f8d21c59e83911389770b23d59f0"
+    },
+    {
       "path": "assets/game/sprite/sprite_enemy_2-1.png",
-      "size": 86624,
-      "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
+      "size": 90533,
+      "sha256": "6e9aea577c5238e5b65dc5733e9bbe10aa42f8d21c59e83911389770b23d59f0"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_2-2.png",
-      "size": 41674,
-      "sha256": "074d2d013d78b56780400a37d56756d699bc8b7620073179e7464e4f1a4080ed"
+      "size": 90533,
+      "sha256": "6e9aea577c5238e5b65dc5733e9bbe10aa42f8d21c59e83911389770b23d59f0"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_3-1.png",
-      "size": 86624,
-      "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
+      "size": 90533,
+      "sha256": "6e9aea577c5238e5b65dc5733e9bbe10aa42f8d21c59e83911389770b23d59f0"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_3-2.png",
-      "size": 41674,
-      "sha256": "074d2d013d78b56780400a37d56756d699bc8b7620073179e7464e4f1a4080ed"
+      "size": 90533,
+      "sha256": "6e9aea577c5238e5b65dc5733e9bbe10aa42f8d21c59e83911389770b23d59f0"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_3-3.png",
-      "size": 86624,
-      "sha256": "5f0c74fdad1431e0b2690cda78425509f01104e02a2fd97dc87dc02c14ba8684"
+      "size": 90533,
+      "sha256": "6e9aea577c5238e5b65dc5733e9bbe10aa42f8d21c59e83911389770b23d59f0"
     },
     {
       "path": "assets/game/weapon/fireball_1.png",
