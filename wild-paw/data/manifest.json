@@ -4,8 +4,8 @@
   "files": [
     {
       "path": "assets/game/arena/arena_1.png",
-      "size": 2698753,
-      "sha256": "46eba835ffc700dde142067ea68e3c8820c7a15c6d5c8aa4d45bee3b1854ba99"
+      "size": 2799290,
+      "sha256": "e5926e57711ecb5af9f6aded1f5772be272ffc12ca29243e1a4632133d8f6078"
     },
     {
       "path": "assets/game/arena/arena_2.png",
@@ -21,6 +21,11 @@
       "path": "assets/game/arena/arena_4.jpg",
       "size": 790007,
       "sha256": "334fad5cda5b8d18470ae169893921eac5f4225825a95b848502e3bf5b688421"
+    },
+    {
+      "path": "assets/game/arena/arena_5.png",
+      "size": 2698753,
+      "sha256": "46eba835ffc700dde142067ea68e3c8820c7a15c6d5c8aa4d45bee3b1854ba99"
     },
     {
       "path": "assets/game/buddy/buddy_bear_1.png",
@@ -859,8 +864,8 @@
     },
     {
       "path": "assets/game/sprite/sprite_enemy_1-2.png",
-      "size": 41674,
-      "sha256": "074d2d013d78b56780400a37d56756d699bc8b7620073179e7464e4f1a4080ed"
+      "size": 90584,
+      "sha256": "9edae018f4c91ffbb6f5942dc9027b6698dfa9c8cc78219057fb2af745fbffbb"
     },
     {
       "path": "assets/game/sprite/sprite_enemy_2-1.png",
