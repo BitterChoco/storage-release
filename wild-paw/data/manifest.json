@@ -125,7 +125,7 @@
     {
       "path": "assets/game/constants/drop-config.json",
       "size": 1469,
-      "sha256": "fe259ccc31ff6d25a3639a84692803ee9d1c7e18b107936d391159123d08caaa"
+      "sha256": "8b6970b9e8ef673e498981b54be3b6ed12beb7f92a5da76a4c56706619f2ccb1"
     },
     {
       "path": "assets/game/constants/heroes.json",
@@ -358,14 +358,14 @@
       "sha256": "3d9f08356aa24645372c3a4f602fee7e88a92d896b91bfe92101cdfcda224ebf"
     },
     {
-      "path": "assets/game/icons/border__card_1.png",
-      "size": 39128,
-      "sha256": "16785e71c4854c0778de057316532fafbe4f02be804b804530a0dc9f5f2f3723"
-    },
-    {
       "path": "assets/game/icons/border_1.png",
       "size": 68414,
       "sha256": "a9b338b34589b6a97943d40e0824bb0d376d926631c8d4d43dc3da7fdbbc6cc9"
+    },
+    {
+      "path": "assets/game/icons/border_card_1.png",
+      "size": 39128,
+      "sha256": "16785e71c4854c0778de057316532fafbe4f02be804b804530a0dc9f5f2f3723"
     },
     {
       "path": "assets/game/icons/border_drop_1.png",
