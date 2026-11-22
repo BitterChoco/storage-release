@@ -149,8 +149,8 @@
     },
     {
       "path": "assets/game/constants/store-pricing.json",
-      "size": 4778,
-      "sha256": "a5f277b7db00f81cb1e6fc0c5f29249bbe251f26312412393f724e0f615dfdd0"
+      "size": 6610,
+      "sha256": "9929a11dbd075869b86cbea5ca4309dda89fd3525c9fb9e5889a5ff138cb41da"
     },
     {
       "path": "assets/game/constants/watch-ads-rewards.json",
@@ -653,64 +653,304 @@
       "sha256": "758129bd74fa39c0164d20b0bb1cc34eb924cc141874fd0f641b3461e16856f1"
     },
     {
+      "path": "assets/game/orbs/orb_10-1.png",
+      "size": 12885,
+      "sha256": "9ad8c34b1d3e0c651b47798e37d84ab7c29e5c4036a101e89f532b38a998e289"
+    },
+    {
+      "path": "assets/game/orbs/orb_10-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
       "path": "assets/game/orbs/orb_1-1.png",
-      "size": 245987,
-      "sha256": "937643a7cb25fdb2cac673899cded2162dd981d8f7026f36be5a0b57e49fe65e"
+      "size": 10624,
+      "sha256": "bd7b46096ea7499485e9aa6b946a6dd15b3eec54335e4017a19c5c33ed91559d"
+    },
+    {
+      "path": "assets/game/orbs/orb_11-1.png",
+      "size": 12467,
+      "sha256": "e89d12f4d83a87f6b034b764489367a0c65ba04eea8dcce7fc3a8bb817bff5f4"
+    },
+    {
+      "path": "assets/game/orbs/orb_11-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/orbs/orb_1-2.png",
-      "size": 105736,
-      "sha256": "b6f1fbc46f2a0bafc959f7d5e2665795086806208e3e524b08ee49a8d4033d0c"
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_12-1.png",
+      "size": 12427,
+      "sha256": "a3205f5d886147c5b9600f7d6a2b4a39e7a04c3a959550c91ab1cb17caba2f44"
+    },
+    {
+      "path": "assets/game/orbs/orb_12-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_13-1.png",
+      "size": 15154,
+      "sha256": "0ae0ee3b17a2f16059fcfb24cce68678436cf911df6815a7fb0e2190a3300de8"
+    },
+    {
+      "path": "assets/game/orbs/orb_13-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_14-1.png",
+      "size": 14830,
+      "sha256": "2eec4a008e0cc0e30959734f7e2a984c0a07f15cfdbcca6a160c45a398b008eb"
+    },
+    {
+      "path": "assets/game/orbs/orb_14-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_15-1.png",
+      "size": 16248,
+      "sha256": "b3ffb1fbba839859f2abebb040f405b5a52c95fb27515c696f15b9d9132cb298"
+    },
+    {
+      "path": "assets/game/orbs/orb_15-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_16-1.png",
+      "size": 17205,
+      "sha256": "3ef27da3f47cefc8546cc4a2b4b27be5460da84bb4f31fd8329e076506cf16ba"
+    },
+    {
+      "path": "assets/game/orbs/orb_16-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_17-1.png",
+      "size": 20005,
+      "sha256": "e32b4bbef19a24c20f29e8b773d76ebe613ff714324fd296ce2fcc74d1cfddf5"
+    },
+    {
+      "path": "assets/game/orbs/orb_17-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_18-1.png",
+      "size": 16352,
+      "sha256": "c18ec77c15269845b7311632bb3c2553bf52db33b13c52849b174468e9ba6bbe"
+    },
+    {
+      "path": "assets/game/orbs/orb_18-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_19-1.png",
+      "size": 21017,
+      "sha256": "b7aafa6f2f8529495fab1bcfd8008d21d1e2ca0355f7961f265b3038804441dd"
+    },
+    {
+      "path": "assets/game/orbs/orb_19-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_20-1.png",
+      "size": 20352,
+      "sha256": "4ab322d42c6855d9c4754ddf3cf3ed953c3853387e9a8deddfc46a4a13124c95"
+    },
+    {
+      "path": "assets/game/orbs/orb_20-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/orbs/orb_2-1.png",
-      "size": 275791,
-      "sha256": "1f25db64c4a36b4eec3f43322f63e9a84ba2258adb2f8f0cbf086f39bb186f82"
+      "size": 10956,
+      "sha256": "e040912f2cbdf7282c06bc1bf141f55771ee6cff14217934ee79eab6ebe413e8"
+    },
+    {
+      "path": "assets/game/orbs/orb_21-1.png",
+      "size": 20461,
+      "sha256": "6faa400ebab4c7f1cf95d48e764ba62ac535c238ba24b48cbab06c64f3e69742"
+    },
+    {
+      "path": "assets/game/orbs/orb_21-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/orbs/orb_2-2.png",
-      "size": 105736,
-      "sha256": "b6f1fbc46f2a0bafc959f7d5e2665795086806208e3e524b08ee49a8d4033d0c"
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_22-1.png",
+      "size": 18337,
+      "sha256": "484ee698202f0beaa6bbfa7ef2dc72477052cd55bd768abd7d06258626686528"
+    },
+    {
+      "path": "assets/game/orbs/orb_22-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_23-1.png",
+      "size": 20423,
+      "sha256": "b65ee466261861506a8781e3116e850faa0e752c7c9dfb5e07cfce8162c0723b"
+    },
+    {
+      "path": "assets/game/orbs/orb_23-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_24-1.png",
+      "size": 16489,
+      "sha256": "19ce7ecbdebddf3f982197b8746b679e261abe05826182bf96b38cd6e6a16c8f"
+    },
+    {
+      "path": "assets/game/orbs/orb_24-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_25-1.png",
+      "size": 21797,
+      "sha256": "cad9d987790885eea41653551ad972c39aefbba088b5cf87d6390c8fc86d0a48"
+    },
+    {
+      "path": "assets/game/orbs/orb_25-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_26-1.png",
+      "size": 25476,
+      "sha256": "6eb58976f82344289e6e7ef10127e033535f8b78fcf00562ef2d8e81bb323180"
+    },
+    {
+      "path": "assets/game/orbs/orb_26-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_27-1.png",
+      "size": 25008,
+      "sha256": "8f7df7c33558dd87078279d5840955443e217bd86662a2a8706ead53f38e454d"
+    },
+    {
+      "path": "assets/game/orbs/orb_27-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_28-1.png",
+      "size": 21603,
+      "sha256": "b92868687d5547793b5a46c556719fcec91161322aa84d76954ea75429aae4ac"
+    },
+    {
+      "path": "assets/game/orbs/orb_28-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_29-1.png",
+      "size": 26103,
+      "sha256": "331a3a655361afd992990537e611054009b28c67535f315936715a6f2de41ee7"
+    },
+    {
+      "path": "assets/game/orbs/orb_29-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_30-1.png",
+      "size": 25734,
+      "sha256": "43eef9a8d13f8e07966d6dc692c4a5fe59f6ec045121d127b74792a1598a289b"
+    },
+    {
+      "path": "assets/game/orbs/orb_30-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/orbs/orb_3-1.png",
-      "size": 264565,
-      "sha256": "364c54ac5dc28b0d0b2a7de6d77bc34690ceab91515a4ee60f3172845b73e53f"
+      "size": 11615,
+      "sha256": "a55157c859adbeddee72aee19c643562e43a9c84cd44a2167195c26c7e635323"
     },
     {
       "path": "assets/game/orbs/orb_3-2.png",
-      "size": 105736,
-      "sha256": "b6f1fbc46f2a0bafc959f7d5e2665795086806208e3e524b08ee49a8d4033d0c"
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/orbs/orb_4-1.png",
-      "size": 256093,
-      "sha256": "378714dcdfdb4e22ad9221c63feb9169f364bd59df54d1c340a79998c03e9064"
+      "size": 12097,
+      "sha256": "84fdd05f8fb6a8e0a2ce567d4d44baa81f433a5fb87684928195a7727097ac7f"
     },
     {
       "path": "assets/game/orbs/orb_4-2.png",
-      "size": 105736,
-      "sha256": "b6f1fbc46f2a0bafc959f7d5e2665795086806208e3e524b08ee49a8d4033d0c"
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/orbs/orb_5-1.png",
-      "size": 373940,
-      "sha256": "9d35d869814a387e50b76cdfeb9f60858e64dedd5372555812c78b31ebe3bfd9"
+      "size": 13296,
+      "sha256": "1c2abd380c7e799e0af44cba1e68853cb364ce1db85eed36c178e351c2cc192e"
     },
     {
       "path": "assets/game/orbs/orb_5-2.png",
-      "size": 105736,
-      "sha256": "b6f1fbc46f2a0bafc959f7d5e2665795086806208e3e524b08ee49a8d4033d0c"
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/orbs/orb_6-1.png",
-      "size": 269225,
-      "sha256": "85e2e162de59dcae93d11c23be6e8f6136ffee7da7c92d1b8c07fec3f95799cc"
+      "size": 11189,
+      "sha256": "68ee2d3a6077ec5dd38660737e036f44724ff6b79a5a0380958ac591be095a81"
     },
     {
       "path": "assets/game/orbs/orb_6-2.png",
-      "size": 105736,
-      "sha256": "b6f1fbc46f2a0bafc959f7d5e2665795086806208e3e524b08ee49a8d4033d0c"
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_7-1.png",
+      "size": 11250,
+      "sha256": "bfc708018fd9f2f4802a00af3a36732e153fec449e47e7193a8a9f785854e0fc"
+    },
+    {
+      "path": "assets/game/orbs/orb_7-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_8-1.png",
+      "size": 12319,
+      "sha256": "042964e148f4087da337f7a179347ad1c14a3faeae61d727d4df22edc37d5f8a"
+    },
+    {
+      "path": "assets/game/orbs/orb_8-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
+    },
+    {
+      "path": "assets/game/orbs/orb_9-1.png",
+      "size": 13435,
+      "sha256": "8c4ccfd1bbb2491e83e2482a6a72e4230ce2086af317ced4e47f41742154c473"
+    },
+    {
+      "path": "assets/game/orbs/orb_9-2.png",
+      "size": 26181,
+      "sha256": "d1d9015d9adeec28c4e79ce152c6e8ea68ef8bda92a097f709c5f33c087308a2"
     },
     {
       "path": "assets/game/profile/border/border_1.png",
