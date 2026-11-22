@@ -149,8 +149,8 @@
     },
     {
       "path": "assets/game/constants/store-pricing.json",
-      "size": 6610,
-      "sha256": "9929a11dbd075869b86cbea5ca4309dda89fd3525c9fb9e5889a5ff138cb41da"
+      "size": 6636,
+      "sha256": "041a8b6d8d4a97ee0a85d347de4c0f0a3c73fb7bbfd2d52157301b19368a235e"
     },
     {
       "path": "assets/game/constants/watch-ads-rewards.json",
